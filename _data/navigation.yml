@@ -1,46 +1,59 @@
 # Site navigation links
-- title: "Introduction to field manuals home"
-  url: https://introduction-manual.github.io
-  excerpt: "Authors and give feedback"
+- title: "Survey Design field manual home"
+  url: https://survey-design-field-manual.github.io
+  excerpt: "Authors, citation and give feedback"
   image: /5x8/Home-blue_5x8.jpg
-- title: "Background"
-  url: https://introduction-field-manual.github.io/background
-  excerpt: ""
+- title: "Introduction"
+  url: https://survey-design-field-manual.github.io/introduction
+  excerpt: "Scope for the survey design field manual"
   image: /5x8/01_5x8.jpg
-- title: "Scope"
-  url: https://introduction-field-manual.github.io/scope
-  excerpt: "Scope for the field manual package"
+- title: "Research Objective(s)"
+  url: https://survey-design-field-manual.github.io/research-objectives
+  excerpt: "Setting your research objectives"
   image: /5x8/02_5x8.jpg
-- title: "Format"
-  url: https://introduction-field-manual.github.io/format
-  excerpt: ""
+- title: "Random sampling"
+  url: https://survey-design-field-manual.github.io/random-sampling
+  excerpt: "Making sure your research questions are answerable"
   image: /5x8/03_5x8.jpg
-- title: "Development of Field Manuals"
-  url: https://introduction-field-manual.github.io/development
-  excerpt: ""
+- title: "Efficient Designs"
+  url: https://survey-design-field-manual.github.io/efficient-designs
+  excerpt: "Spatialy balanced designs and software to help"
   image: /5x8/04_5x8.jpg
-- title: "Contributors"
-  url: https://introduction-field-manual.github.io/contributors
-  excerpt: "Sampling design, permits, risk assessments, quality assurance and control, data discoverability and accessibility and post survey reports
+- title: "Uncertainty, Precision, and Power"
+  url: https://survey-design-field-manual.github.io/uncertainty-precision-power
+  excerpt: ""
   image: /5x8/05_5x8.jpg
-- title: "Universal Protocols"
-  url: https://introduction-field-manual.github.io/universal-protocols
-  excerpt: "Sampling design, permits, risk assessments, quality assurance and control, data discorverability and accessibility and post survey reporting"
+- title: "Spatio-Temporal Sampling"
+  url: https://survey-design-field-manual.github.io/spatio-temporal-sampling
+  excerpt: "Sampling in space and time"
   image: /5x8/06_5x8.jpg
-- title: "Maintenance of Field Manuals"
-  url: https://introduction-field-manual.github.io/maintenance-of-field-manuals
-  excerpt: ""
+- title: "Gear-Specific Considerations"
+  url: https://survey-design-field-manual.github.io/gear-specific-considerations
+  excerpt: "What to consider when choosing your sampling method"
   image: /5x8/07_5x8.jpg
-- title: "Outreach"
-  url: https://introduction-field-manual.github.io/outreach
-  excerpt: ""
+- title: "Mapping as a Foundation"
+  url: https://survey-design-field-manual.github.io/mapping-as-a-foundation
+  excerpt: "Seafloor data from multibeam sonar"
   image: /5x8/08_5x8.jpg
-- title: "References"
-  url: https://introduction-field-manual.github.io//references
-  excerpt: "Literature cited"
+- title: "Field Manual Maintenance"
+  url: https://survey-design-field-manual.github.io/field-manual-maintenance
+  excerpt: "Updates and developments"
   image: /5x8/09_5x8.jpg
+- title: "Case Study: Surveying a Marine Park in Tasmania"
+  url: https://survey-design-field-manual.github.io/case-study
+  excerpt: ""
+  image: /5x8/10_5x8.jpg
+- title: "Set Up R to Generate Design"
+  url: https://survey-design-field-manual.github.io/set-up-r-to-generate-design
+  excerpt: ""
+  image: /5x8/11_5x8.jpg
+- title: "References"
+  url: https://survey-design-field-manual.github.io/references
+  excerpt: "Literature cited"
+  image: /5x8/12_5x8.jpg
 - title: "Field Manual Homepage"
   url: https://www.nespmarine.edu.au/field-manuals
   excerpt: "Back to all field manuals"
   image: /5x8/NESP_5x8.jpg
+
 
