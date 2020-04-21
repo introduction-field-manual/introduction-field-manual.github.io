@@ -2,50 +2,50 @@
 - title: "Introduction field manual home"
   url: https://introduction-field-manual.github.io
   excerpt: "Authors, citation and give feedback"
-  image: /5x8/Home-blue_5x8.jpg
+  image: /teasers/home_teaser.jpg
 - title: "Download field manual"
   url: https://introduction-field-manual.github.io/files/Chapter%201_Introduction%20Field%20Manual%20V2.pdf
   excerpt: "Download chapter as a PDF"
-  image: /5x8/download_5x8.jpg
+  image: /teasers/download_teaser.jpg
 - title: "Background"
   url: https://introduction-field-manual.github.io/background
   excerpt: ""
-  image: /5x8/01_5x8.jpg
+  image: /teasers/background_teaser.jpg
 - title: "Scope"
   url: https://introduction-field-manual.github.io/scope
   excerpt: ""
-  image: /5x8/02_5x8.jpg
+  image: /teasers/scope_teaser.jpg
 - title: "Format"
   url: https://introduction-field-manual.github.io/format
   excerpt: ""
-  image: /5x8/03_5x8.jpg
+  image: /teasers/format_teaser.jpg
 - title: "Development of Field Manuals"
   url: https://introduction-field-manual.github.io/development
   excerpt: ""
-  image: /5x8/04_5x8.jpg
-- title: "Contributors"
-  url: https://introduction-field-manual.github.io/contributors
-  excerpt: ""
-  image: /5x8/05_5x8.jpg
+  image: /teasers/development_teaser.jpg
 - title: "Universal Protocols"
   url: https://introduction-field-manual.github.io/universal-protocols
   excerpt: "Sampling design, Permits, Risk Assessments, QAQC, Data discoverability and accessibility and Post-survey reports"
-  image: /5x8/06_5x8.jpg
-- title: "Maintenance of Field Manuals"
+  image: /teasers/universal_protocols_teaser.jpg
+- title: "Outreach and Maintenance"
   url: https://introduction-field-manual.github.io/maintenance-of-field-manuals
   excerpt: "Updates and developments"
-  image: /5x8/09_5x8.jpg
-- title: "Outreach"
-  url: https://introduction-field-manual.github.io/outreach
-  excerpt: "Literature cited"
-  image: /5x8/12_5x8.jpg
+  image: /teasers/outreach_teaser.jpg
+- title: "Version 2 - Updates and Revisions"
+  url: https://introduction-field-manual.github.io/updates-and-revisions
+  excerpt: ""
+  image: /teasers/version_2_teaser.jpg
+- title: "Collaborators"
+  url: https://introduction-field-manual.github.io/collaborators
+  excerpt: ""
+  image: /teasers/collaborators_teaser.jpg
 - title: "References"
   url: https://introduction-field-manual.github.io/references
   excerpt: "Literature cited"
-  image: /5x8/12_5x8.jpg
+  image: /teasers/12_5x8.jpg
 - title: "Field Manual Homepage"
   url: https://www.nespmarine.edu.au/field-manuals
   excerpt: "Back to all field manuals"
-  image: /5x8/NESP_5x8.jpg
+  image: /teasers/NESP_teaser.jpg
 
 
