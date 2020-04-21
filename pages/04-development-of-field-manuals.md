@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /development-of-field-manuals
+permalink: /development
 title: "Development of Field Manuals"
 excerpt: ""
 image:

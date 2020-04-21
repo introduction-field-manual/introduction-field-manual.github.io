@@ -1,8 +1,8 @@
 ---
 layout: home
-permalink: /outreach
-title: "Outreach"
-excerpt: ""
+permalink: /updates-and-revisions
+title: "Version 2"
+excerpt: "Updates and Revisions"
 image:
-  feature: /banners/08_banner.jpg
+  feature: /banners/version_2_banner.jpg
 ---
