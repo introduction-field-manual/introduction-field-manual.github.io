@@ -2,7 +2,7 @@
 layout: home
 permalink: /outreach-and-maintenance
 title: "Outreach and Maintenance"
-excerpt: ""
+excerpt: " <br> <br>"
 image:
   feature: /banners/outreach_banner.jpg
 ---
