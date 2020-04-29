@@ -2,7 +2,7 @@
 layout: home
 permalink: /universal-protocols
 title: "Universal Protocols"
-excerpt: " <br> <br>"
+excerpt: " <br> "
 image:
   feature: /banners/universal_protocols_banner.JPG
 ---

@@ -2,7 +2,7 @@
 layout: home
 permalink: /collaborators
 title: "Collaborators"
-excerpt: ""
+excerpt: " <br>"
 image:
   feature: /banners/collaborators_banner.jpg
 ---

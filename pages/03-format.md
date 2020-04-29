@@ -2,7 +2,7 @@
 layout: home
 permalink: /format
 title: "Format"
-excerpt: ""
+excerpt: " <br>"
 image:
   feature: /banners/format_banner.JPG
 ---
