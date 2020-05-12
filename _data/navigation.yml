@@ -25,11 +25,11 @@
   image: /teasers/development_teaser.jpg
 - title: "Universal Protocols"
   url: https://introduction-field-manual.github.io/universal-protocols
-  excerpt: "Sampling Design, Permits, Risk Assessments, QAQC, Data Discoverability and Accessibility and Post-Survey Reports"
+  excerpt: "Sampling design, permits, risk assessments, QAQC, data discoverability and accessibility and post-survey reports"
   image: /teasers/universal_protocols_teaser.jpg
-- title: "Outreach and Maintenance"
+- title: "Outreach and maintenance"
   url: https://introduction-field-manual.github.io/outreach-and-maintenance
-  excerpt: "Updates and Developments"
+  excerpt: "Updates and developments"
   image: /teasers/outreach_teaser.jpg
 - title: "Version 2 - Updates and Revisions"
   url: https://introduction-field-manual.github.io/updates-and-revisions
