@@ -1,11 +1,11 @@
 # Site navigation links
-- title: "Introduction field manual home"
+- title: "Introduction Field Manual Home"
   url: https://introduction-field-manual.github.io
   excerpt: "Authors, citation and give feedback"
   image: /teasers/home_teaser.jpg
-- title: "Download field manual"
+- title: "Download Field Manual"
   url: https://introduction-field-manual.github.io/files/Chapter%201_Introduction%20Field%20Manual%20V2.pdf
-  excerpt: "Download chapter as a PDF"
+  excerpt: "Download Chapter as a PDF"
   image: /teasers/download_teaser.jpg
 - title: "Background"
   url: https://introduction-field-manual.github.io/background
@@ -25,11 +25,11 @@
   image: /teasers/development_teaser.jpg
 - title: "Universal Protocols"
   url: https://introduction-field-manual.github.io/universal-protocols
-  excerpt: "Sampling design, Permits, Risk Assessments, QAQC, Data discoverability and accessibility and Post-survey reports"
+  excerpt: "Sampling Design, Permits, Risk Assessments, QAQC, Data Discoverability and Accessibility and Post-Survey Reports"
   image: /teasers/universal_protocols_teaser.jpg
 - title: "Outreach and Maintenance"
   url: https://introduction-field-manual.github.io/outreach-and-maintenance
-  excerpt: "Updates and developments"
+  excerpt: "Updates and Developments"
   image: /teasers/outreach_teaser.jpg
 - title: "Version 2 - Updates and Revisions"
   url: https://introduction-field-manual.github.io/updates-and-revisions
@@ -41,7 +41,7 @@
   image: /teasers/collaborators_teaser.jpg
 - title: "References"
   url: https://introduction-field-manual.github.io/references
-  excerpt: "Literature cited"
+  excerpt: "Literature Cited"
   image: /teasers/references_teaser.jpg
 - title: "Field Manual Homepage"
   url: https://www.nespmarine.edu.au/field-manuals
