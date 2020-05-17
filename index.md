@@ -10,6 +10,6 @@ page.button1.external_url:
   caption: NESP
 ---
 
-Rachel Przeslawski and Scott Foster
+Rachel Przeslawski, Scott Foster, Brooke Gibbons, Tim Langlois
 
 ![image alt text](images/Introduction.jpg)
