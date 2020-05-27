@@ -4,7 +4,7 @@ permalink: /
 title: "Introduction"
 excerpt: ""
 image:
-  feature: /banners/format_banner.JPG
+  feature: /banners/development_banner.jpg
 page.button1.external_url:
   url: https://www.nespmarine.edu.au/
   caption: NESP
