@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: "Introduction"
-excerpt: ""
+excerpt: "<br>"
 image:
   feature: /banners/development_banner.jpg
 page.button1.external_url:

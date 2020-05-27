@@ -2,7 +2,7 @@
 layout: home
 permalink: /background
 title: "Background"
-excerpt: "<br> <br>"
+excerpt: "<br>"
 image:
   feature: /banners/development_banner.jpg
 toc: true
