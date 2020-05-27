@@ -13,3 +13,22 @@ page.button1.external_url:
 Rachel Przeslawski, Scott Foster, Brooke Gibbons, Tim Langlois
 
 ![image alt text](images/Introduction.jpg)
+
+| Chapter Contents                                                                                                       |
+|------------------------------------------------------------------------------------------------------------------------|
+|  **[Background](https://introduction-field-manual.github.io/background)**                                              |
+|  **[Scope](https://introduction-field-manual.github.io/scope)**                                                        |
+|  **[Format](https://introduction-field-manual.github.io/format)**                                                      |
+|  **[Development of Field Manuals](https://introduction-field-manual.github.io/development)**                           |
+|  **[Universal Protocols](https://introduction-field-manual.github.io/universal-protocols)**                            |
+|       _[Sampling design](https://introduction-field-manual.github.io/universal-protocols#sampling-design)_             |
+|       _[Permits](https://introduction-field-manual.github.io/universal-protocols#permits)_                             |
+|       _[Risk assessments](https://introduction-field-manual.github.io/universal-protocols#risk-assessments)_           |
+|       _[Quality assurance and control](https://introduction-field-manual.github.io/universal-protocols#quality-assurance-and-control)_  |
+|       _[Data discoverability and accessibility](https://introduction-field-manual.github.io/universal-protocols#data-discoverability-and-accessibility)_  |
+|       _[Post-survey report](https://introduction-field-manual.github.io/universal-protocols#Post-survey-report)_       |
+|  **[Outreach and Maintenance](https://introduction-field-manual.github.io/outreach-and-maintenance)**                  |
+|  **[Version 2 - Updates and Revisions](https://introduction-field-manual.github.io/updates-and-revisions)**            |
+|  **[Collaborators](https://introduction-field-manual.github.io/collaborators)**                                        |
+|  **[References](https://introduction-field-manual.github.io/references)**                                              |
+
