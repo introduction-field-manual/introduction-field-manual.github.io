@@ -4,5 +4,5 @@ permalink: /references
 title: "References"
 excerpt: " <br>"
 image:
-  feature: /banners/references_banner.jpg
+  feature: /banners/format_banner.JPG
 ---

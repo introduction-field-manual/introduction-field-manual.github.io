@@ -4,7 +4,7 @@ permalink: /background
 title: "Background"
 excerpt: "<br> <br>"
 image:
-  feature: /banners/background_banner.jpg
+  feature: /banners/format_banner.JPG
 toc: true
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %} 

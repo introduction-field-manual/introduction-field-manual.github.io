@@ -3,7 +3,7 @@ permalink: /scope
 title: "Scope"
 excerpt: " <br>"
 image:
-  feature: /banners/scope_banner.jpg
+  feature: /banners/format_banner.JPG
 layout: home
 
 ---
