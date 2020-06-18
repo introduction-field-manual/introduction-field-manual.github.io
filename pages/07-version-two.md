@@ -24,11 +24,7 @@ One of the most notable changes for Version 2 was the development of an online p
 *   The online system will have more flexibility to embed imagery and other media (e.g. video tutorials) in future versions, thereby taking a much more modern approach than only static pdfs allow.
 
     
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
+![alt_text](images/figures/image4.png "image_tooltip")
 
 
 

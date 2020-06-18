@@ -33,11 +33,7 @@ Risk assessments not only help quantify potential risks associated with planning
 
 ## Quality assurance and control
 
-These field manuals define quality assurance (QA) as measures adopted before and during data acquisition, while quality control (QC) are measures adopted after data acquisition. Specifically QA represents the processes necessary to support the generation of high quality data and QC represents the follow-on steps that support the delivery of high-quality data, requiring both automation and human intervention_. _The documentation of the QA/QC process is arguably just as important as data acquisition itself. The QA/QC process can affect data analysis and interpretation (e.g. observer bias in marine imagery in Durden et al. 2016b) 
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: ", and it is thus an integral part of standardisation to facilitate comparisons between datasets (Lara-Lopez et al. 2017)."). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[, and it is thus an integral part of standardisation to facilitate comparisons between datasets (Lara-Lopez et al. 2017).](#heading=h.49x2ik5) The appropriate methods for QA/QC depends on the data type (e.g. multibeam, underwater imagery, biological specimen). As such, further details on QA/QC are included in each field manual in the Data Release sections.
+These field manuals define quality assurance (QA) as measures adopted before and during data acquisition, while quality control (QC) are measures adopted after data acquisition. Specifically QA represents the processes necessary to support the generation of high quality data and QC represents the follow-on steps that support the delivery of high-quality data, requiring both automation and human intervention_. _The documentation of the QA/QC process is arguably just as important as data acquisition itself. The QA/QC process can affect data analysis and interpretation (e.g. observer bias in marine imagery in Durden et al. 2016b), and it is thus an integral part of standardisation to facilitate comparisons between datasets (Lara-Lopez et al. 2017). The appropriate methods for QA/QC depends on the data type (e.g. multibeam, underwater imagery, biological specimen). As such, further details on QA/QC are included in each field manual in the Data Release sections.
 
 
 ## Data discoverability and accessibility

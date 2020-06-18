@@ -12,11 +12,11 @@ All individuals that contributed to versions 1 or 2 of this field manual package
 
 
 
-*   _Editors _oversaw production of the entire field manual package, ensuring fit-for-purpose content and consistent scope, style, and formatting throughout.
-*   _Lead authors _led working groups associated with discrete chapters or sampling platforms.
-*   _Authors _helped write chapters or provided crucial information to do so.
+*   _Editors_ oversaw production of the entire field manual package, ensuring fit-for-purpose content and consistent scope, style, and formatting throughout.
+*   _Lead authors_ led working groups associated with discrete chapters or sampling platforms.
+*   _Authors_ helped write chapters or provided crucial information to do so.
 *   _Contributors _participated in working group discussions.
-*   _Reviewers _provided assessments of draft chapters. In some cases, reviewers of Version 1 became co-authors of Version 2 due to their extensive contributions.
+*   _Reviewers_ provided assessments of draft chapters. In some cases, reviewers of Version 1 became co-authors of Version 2 due to their extensive contributions.
 
 <table>
   <tr>
@@ -1403,4 +1403,4 @@ First name
 </table>
 
 
-* An abridged version of the grab field manual was developed for the AHO for sedimentology, excluding geochemical and biological data.
+*An abridged version of the grab field manual was developed for the AHO for sedimentology, excluding geochemical and biological data.
