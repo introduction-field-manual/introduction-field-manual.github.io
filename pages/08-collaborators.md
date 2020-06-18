@@ -15,7 +15,7 @@ All individuals that contributed to versions 1 or 2 of this field manual package
 *   _Editors_ oversaw production of the entire field manual package, ensuring fit-for-purpose content and consistent scope, style, and formatting throughout.
 *   _Lead authors_ led working groups associated with discrete chapters or sampling platforms.
 *   _Authors_ helped write chapters or provided crucial information to do so.
-*   _Contributors _participated in working group discussions.
+*   _Contributors_ participated in working group discussions.
 *   _Reviewers_ provided assessments of draft chapters. In some cases, reviewers of Version 1 became co-authors of Version 2 due to their extensive contributions.
 
 <table>
