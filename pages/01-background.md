@@ -131,7 +131,7 @@ Table 1  Large-scale biological or ecological monitoring programs currently oper
 </tbody>
 </table>
 
-* Primarily benthic and demersal platforms, but also includes an emergent pelagic method (Pelagic BRUVs)
+*Primarily benthic and demersal platforms, but also includes an emergent pelagic method (Pelagic BRUVs)
 
 
 
