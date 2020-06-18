@@ -8,8 +8,6 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
-# Development of Field Manuals
-
 The process of developing these field manuals has been detailed in [Przeslawski et al (2019a)](https://www.frontiersin.org/articles/10.3389/fmars.2019.00177/full). 
 
 The main challenge in the development of these manuals was to find a balance between being overly prescriptive (such that people prefer to follow their own protocol and ignore the manuals) and overly flexible (such that data are not consistent and therefore not comparable). A collaborative approach was therefore paramount to their development. 
@@ -30,21 +28,13 @@ The process used to develop each field manual included in this package is shown 
 8. Content of field manuals was revised based on feedback and new developments (e.g. data discoverability and accessibility). This was incorporated into Version 2, with the exception of the ROV manual which was a new addition to the Version 2 field package and thus has not yet been through a process of stakeholder feedback after release.
 
 
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
+![alt_text](images/figures/image2.png "image_tooltip")
 
 Figure 2 Flow chart showing the iterative process used in the initial development of this field manual package (version 1, orange and green), as well as version 2 and subsequent future versions (orange only).
 
 
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.jpg "image_tooltip")
+![alt_text](images/figures/image3.png "image_tooltip")
 
 
 Figure 3 Collaborative network that developed the marine sampling field manuals. Working group members are listed in a table at the end of this chapter as authors or collaborators.
