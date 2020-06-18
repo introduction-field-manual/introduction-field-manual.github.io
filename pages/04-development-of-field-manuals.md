@@ -34,7 +34,7 @@ Figure 2 Flow chart showing the iterative process used in the initial developmen
 
 
 
-![alt_text](images/figures/image3.png "image_tooltip")
+![alt_text](images/figures/image3.jpg "image_tooltip")
 
 
 Figure 3 Collaborative network that developed the marine sampling field manuals. Working group members are listed in a table at the end of this chapter as authors or collaborators.
