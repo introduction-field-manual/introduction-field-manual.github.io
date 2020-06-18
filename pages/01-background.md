@@ -21,17 +21,7 @@ Although many biological monitoring programs focus on single elements of the mar
 
 Table 1  Large-scale biological or ecological monitoring programs currently operating or under development in Australia as of Dec 2017. UVC = underwater visual census, DOV = diver-operated video, ROV = remotely operated vehicle,  AUV = autonomous underwater vehicle, BRUV = baited remote underwater video, MBES = multibeam echosounder.
 
-
-<table style="undefined;table-layout: fixed; width: 1697px">
-<colgroup>
-<col style="width: 22px">
-<col style="width: 25px">
-<col style="width: 306px">
-<col style="width: 154px">
-<col style="width: 452px">
-<col style="width: 495px">
-<col style="width: 243px">
-</colgroup>
+<table>
 <thead>
   <tr>
     <th colspan="2"></th>
