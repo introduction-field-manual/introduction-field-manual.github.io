@@ -28,7 +28,7 @@ Przeslawski R, Foster S, Gibbons B, Langlois T.. 2020. Introduction. In Field Ma
 |       _[Risk assessments](https://introduction-field-manual.github.io/universal-protocols#risk-assessments)_           |
 |       _[Quality assurance and control](https://introduction-field-manual.github.io/universal-protocols#quality-assurance-and-control)_  |
 |       _[Data discoverability and accessibility](https://introduction-field-manual.github.io/universal-protocols#data-discoverability-and-accessibility)_  |
-|       _[Post-survey report](https://introduction-field-manual.github.io/universal-protocols#Post-survey-report)_       |
+|       _[Post-survey report](https://introduction-field-manual.github.io/universal-protocols#post-survey-report)_       |
 |  **[Outreach and Maintenance](https://introduction-field-manual.github.io/outreach-and-maintenance)**                  |
 |  **[Version 2 - Updates and Revisions](https://introduction-field-manual.github.io/updates-and-revisions)**            |
 |  **[Collaborators](https://introduction-field-manual.github.io/collaborators)**                                        |
