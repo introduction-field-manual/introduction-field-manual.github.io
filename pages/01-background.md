@@ -34,7 +34,7 @@ Table 1  Large-scale biological or ecological monitoring programs currently oper
 </thead>
 <tbody>
   <tr>
-    <td rowspan="7">P E L A G I C</td>
+    <td rowspan="7">P<br>E<br>L<br>A<br>G<br>I<br>C</td>
     <td rowspan="4"></td>
     <td>Continuous Plankton Recorder (CPR)</td>
     <td>Global</td>
