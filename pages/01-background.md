@@ -22,233 +22,124 @@ Although many biological monitoring programs focus on single elements of the mar
 Table 1  Large-scale biological or ecological monitoring programs currently operating or under development in Australia as of Dec 2017. UVC = underwater visual census, DOV = diver-operated video, ROV = remotely operated vehicle,  AUV = autonomous underwater vehicle, BRUV = baited remote underwater video, MBES = multibeam echosounder.
 
 
-<table>
+<table style="undefined;table-layout: fixed; width: 1697px">
+<colgroup>
+<col style="width: 22px">
+<col style="width: 25px">
+<col style="width: 306px">
+<col style="width: 154px">
+<col style="width: 452px">
+<col style="width: 495px">
+<col style="width: 243px">
+</colgroup>
+<thead>
   <tr>
-   <td colspan="2" >
-   </td>
-   <td>Program
-   </td>
-   <td>Region
-   </td>
-   <td>Indicator
-   </td>
-   <td>Sampling Platforms
-   </td>
-   <td>Example Reference
-   </td>
+    <th colspan="2"></th>
+    <th>Program</th>
+    <th>Region</th>
+    <th>Indicator</th>
+    <th>Sampling Platforms</th>
+    <th>Example Reference</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="7">P E L A G I C</td>
+    <td rowspan="4"></td>
+    <td>Continuous Plankton Recorder (CPR)</td>
+    <td>Global</td>
+    <td>Plankton assemblages, colour index</td>
+    <td>CPR</td>
+    <td>Hosie et al. 2003</td>
   </tr>
   <tr>
-   <td rowspan="7" >P E L A G I C
-   </td>
-   <td rowspan="4" >
-   </td>
-   <td>Continuous Plankton Recorder (CPR)
-   </td>
-   <td>Global
-   </td>
-   <td>Plankton assemblages, colour index
-   </td>
-   <td>CPR
-   </td>
-   <td>Hosie et al. 2003
-   </td>
+    <td>IMOS Animal Tracking Facility</td>
+    <td>National</td>
+    <td>Marine megafauna movement</td>
+    <td>Acoustic telemetry, satellite tracking</td>
+    <td>Taylor et al. 2017</td>
   </tr>
   <tr>
-   <td>IMOS Animal Tracking Facility
-   </td>
-   <td>National
-   </td>
-   <td>Marine megafauna movement
-   </td>
-   <td>Acoustic telemetry, satellite tracking
-   </td>
-   <td>Taylor et al. 2017
-   </td>
+    <td>IMOS Ships of Opportunity</td>
+    <td>National</td>
+    <td>Temperature, salinity, water column backscatter, biochemistry</td>
+    <td>Bathythermograph, echosounder, biogeochemical and meteorological sensors</td>
+    <td>Alory et al. 2007</td>
   </tr>
   <tr>
-   <td>IMOS Ships of Opportunity
-   </td>
-   <td>National
-   </td>
-   <td>Temperature, salinity, water column backscatter, biochemistry
-   </td>
-   <td>Bathythermograph, echosounder, biogeochemical and meteorological sensors
-   </td>
-   <td>Alory et al. 2007
-   </td>
+    <td>IMOS National Reference Stations</td>
+    <td>National</td>
+    <td>Nutrients, microbes, phytoplankton, zooplankton, environmental factors</td>
+    <td>Moored sensors, water sampling</td>
+    <td>Sloyan and O’Kane 2015</td>
   </tr>
   <tr>
-   <td>IMOS National Reference Stations
-   </td>
-   <td>National
-   </td>
-   <td>Nutrients, microbes, phytoplankton, zooplankton, environmental factors
-   </td>
-   <td>Moored sensors, water sampling
-   </td>
-   <td>Sloyan and O’Kane 2015
-   </td>
+    <td rowspan="9">B<br>E<br>N<br>T<br>H<br>I<br>C<br>&amp;<br>D<br>E<br>M<br>E<br>R<br>S<br>A<br>L</td>
+    <td>RIMREP</td>
+    <td>GBR</td>
+    <td>Various</td>
+    <td>Various (TBC)</td>
+    <td>GBRMPA 2015</td>
   </tr>
   <tr>
-   <td rowspan="9" >
-    B
-<p>
-
-    E
-<p>
-
-    N
-<p>
-
-    T
-<p>
-
-    H
-<p>
-
-    I
-<p>
-
-    C
-<p>
-
-    &
-<p>
-
-    D
-<p>
-
-    E
-<p>
-
-    M
-<p>
-
-    E
-<p>
-
-    R
-<p>
-
-    S
-<p>
-
-    A
-<p>
-
-    L
-   </td>
-   <td>RIMREP
-   </td>
-   <td>GBR
-   </td>
-   <td>Various
-   </td>
-   <td>Various (TBC)
-   </td>
-   <td>GBRMPA 2015
-   </td>
+    <td>Marine Estate Management Authority</td>
+    <td>NSW</td>
+    <td>Various </td>
+    <td>Aerial imagery, UVC, BRUVs, AUVs, towed imagery, grabs, DOVs, ROVs</td>
+    <td>NSW Government 2017</td>
   </tr>
   <tr>
-   <td>Marine Estate Management Authority
-   </td>
-   <td>NSW
-   </td>
-   <td>Various 
-   </td>
-   <td>Aerial imagery, UVC, BRUVs, AUVs, towed imagery, grabs, DOVs, ROVs
-   </td>
-   <td>NSW Government 2017
-   </td>
+    <td>WAMSI estuary science program</td>
+    <td>WA</td>
+    <td>Various </td>
+    <td>Various (TBC)</td>
+    <td>Thomson et al. 2017</td>
   </tr>
   <tr>
-   <td>WAMSI estuary science program
-   </td>
-   <td>WA
-   </td>
-   <td>Various 
-   </td>
-   <td>Various (TBC)
-   </td>
-   <td>Thomson et al. 2017
-   </td>
+    <td rowspan="6"></td>
+    <td>Reef Life Survey</td>
+    <td>Global</td>
+    <td>Demersal fish and benthic invertebrate assemblages</td>
+    <td>UVC</td>
+    <td>Stuart-Smith et al. 2017</td>
   </tr>
   <tr>
-   <td rowspan="6" >
-   </td>
-   <td>Reef Life Survey
-   </td>
-   <td>Global
-   </td>
-   <td>Demersal fish and benthic invertebrate assemblages
-   </td>
-   <td>UVC
-   </td>
-   <td>Stuart-Smith et al. 2017
-   </td>
+    <td>Long-Term Monitoring Program (AIMS)</td>
+    <td>GBR and NW Australia</td>
+    <td>Fish and benthic invertebrate assemblage, coral health and cover</td>
+    <td>UVC, DOV, Towed imagery</td>
+    <td>De’ath et al. 2012</td>
   </tr>
   <tr>
-   <td>Long-Term Monitoring Program (AIMS)
-   </td>
-   <td>GBR and NW Australia
-   </td>
-   <td>Fish and benthic invertebrate assemblage, coral health and cover
-   </td>
-   <td>UVC, DOV, Towed imagery
-   </td>
-   <td>De’ath et al. 2012
-   </td>
+    <td>IMOS AUV Facility</td>
+    <td>National</td>
+    <td>Benthic invertebrate assemblages</td>
+    <td>AUV</td>
+    <td>Perkins et al. 2017</td>
   </tr>
   <tr>
-   <td>IMOS AUV Facility
-   </td>
-   <td>National
-   </td>
-   <td>Benthic invertebrate assemblages
-   </td>
-   <td>AUV
-   </td>
-   <td>Perkins et al. 2017
-   </td>
+    <td>VIC Signs of Healthy Parks monitoring program</td>
+    <td>VIC</td>
+    <td>Various</td>
+    <td>UVC, drone/UAV, AUV, BRUVS, ROV, towed video, aerial photography</td>
+    <td>Parks Victoria’s Technical Series</td>
   </tr>
   <tr>
-   <td>VIC Signs of Healthy Parks monitoring program
-   </td>
-   <td>VIC
-   </td>
-   <td>Various
-   </td>
-   <td>UVC, drone/UAV, AUV, BRUVS, ROV, towed video, aerial photography
-   </td>
-   <td>Parks Victoria’s Technical Series
-   </td>
+    <td>WA marine monitoring program</td>
+    <td>WA</td>
+    <td>Various</td>
+    <td>Various</td>
+    <td>Dept Biodiv Conserv Attractions 2017</td>
   </tr>
   <tr>
-   <td>WA marine monitoring program
-   </td>
-   <td>WA
-   </td>
-   <td>Various
-   </td>
-   <td>Various
-   </td>
-   <td>Dept Biodiv Conserv Attractions 2017
-   </td>
+    <td>NESP field manual package*</td>
+    <td>National</td>
+    <td>Various</td>
+    <td>MBES, AUV, BRUV, Towed camera, Sled/trawls, Grab/corer, ROV</td>
+    <td>Current study</td>
   </tr>
-  <tr>
-   <td>NESP field manual package*
-   </td>
-   <td>National
-   </td>
-   <td>Various
-   </td>
-   <td>MBES, AUV, BRUV, Towed camera, Sled/trawls, Grab/corer, ROV
-   </td>
-   <td>Current study
-   </td>
-  </tr>
+</tbody>
 </table>
-
 
 * Primarily benthic and demersal platforms, but also includes an emergent pelagic method (Pelagic BRUVs)
 
@@ -262,414 +153,73 @@ Table 2: Summary of prioritised benthic sampling platforms and their acquisition
 
 
 <table>
+<thead>
   <tr>
-   <td>
-   </td>
-   <td>Data Type
-   </td>
-   <td>Data Target
-   </td>
-   <td>Spatial coverage
-   </td>
-   <td>Environment
-   </td>
-   <td>Chapter
-   </td>
+    <th></th>
+    <th>Data Type</th>
+    <th>Data Target</th>
+    <th>Spatial coverage</th>
+    <th>Environment</th>
+    <th>Chapter</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>MBES</td>
+    <td>Bathymetry, backscatter</td>
+    <td>Seafloor</td>
+    <td>Continuous</td>
+    <td>All</td>
+    <td>3</td>
   </tr>
   <tr>
-   <td>MBES
-   </td>
-   <td>Bathymetry, backscatter
-   </td>
-   <td>Seafloor
-   </td>
-   <td>Continuous
-   </td>
-   <td>All
-   </td>
-   <td>3
-   </td>
+    <td>AUV</td>
+    <td>Imagery</td>
+    <td>Epifauna</td>
+    <td>Continuous</td>
+    <td>All</td>
+    <td>4</td>
   </tr>
   <tr>
-   <td>AUV
-   </td>
-   <td>Imagery
-   </td>
-   <td>Epifauna
-   </td>
-   <td>Continuous
-   </td>
-   <td>All
-   </td>
-   <td>4
-   </td>
+    <td>BRUV</td>
+    <td>Imagery</td>
+    <td>Demersal fish</td>
+    <td>Point (qualitative)</td>
+    <td>All</td>
+    <td>5</td>
   </tr>
   <tr>
-   <td>BRUV
-   </td>
-   <td>Imagery
-   </td>
-   <td>Demersal fish
-   </td>
-   <td>Point (qualitative)
-   </td>
-   <td>All
-   </td>
-   <td>5
-   </td>
+    <td>Towed </td>
+    <td>Imagery</td>
+    <td>Epifauna</td>
+    <td>Transect</td>
+    <td>All</td>
+    <td>7</td>
   </tr>
   <tr>
-   <td>Towed 
-   </td>
-   <td>Imagery
-   </td>
-   <td>Epifauna
-   </td>
-   <td>Transect
-   </td>
-   <td>All
-   </td>
-   <td>7
-   </td>
+    <td>Grab/Boxcore</td>
+    <td>Biological and sediment samples</td>
+    <td>Macrofauna, infauna</td>
+    <td>Point</td>
+    <td>Unconsolidated substrate</td>
+    <td>8</td>
   </tr>
   <tr>
-   <td>Grab/Boxcore
-   </td>
-   <td>Biological and sediment samples
-   </td>
-   <td>Macrofauna, infauna
-   </td>
-   <td>Point
-   </td>
-   <td>Unconsolidated substrate
-   </td>
-   <td>8
-   </td>
+    <td>Sled/Trawl</td>
+    <td>Biological and sediment samples</td>
+    <td>Megafauna, epifauna</td>
+    <td>Transect (qualitative)</td>
+    <td>Consolidated substrate</td>
+    <td>9</td>
   </tr>
   <tr>
-   <td>Sled/Trawl
-   </td>
-   <td>Biological and sediment samples
-   </td>
-   <td>Megafauna, epifauna
-   </td>
-   <td>Transect (qualitative)
-   </td>
-   <td>Consolidated substrate
-   </td>
-   <td>9
-   </td>
+    <td>ROV</td>
+    <td>Imagery*</td>
+    <td>Epifauna</td>
+    <td>Transect</td>
+    <td>All</td>
+    <td>10</td>
   </tr>
-  <tr>
-   <td>ROV
-   </td>
-   <td>Imagery*
-   </td>
-   <td>Epifauna
-   </td>
-   <td>Transect
-   </td>
-   <td>All
-   </td>
-   <td>10
-   </td>
-  </tr>
-</table>
-
-
-* ROVs can collect biological and geological samples, but the focus of the manual in this package is on imagery.
-
-Table 3: Advantages of prioritised benthic sampling platforms.
-
-
-<table>
-  <tr>
-   <td>
-   </td>
-   <td>MBES
-   </td>
-   <td>AUV
-   </td>
-   <td>BRUV
-   </td>
-   <td>Towed
-   </td>
-   <td>Grab/Boxcore
-   </td>
-   <td>Sled/Trawl
-   </td>
-   <td>ROV
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-Continuous (i.e. grid) broad-scale spatial coverage</p>
-
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-Continuous (i.e. grid) fine-scale spatial coverage</p>
-
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-Non-extractive</p>
-
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-Able to revisit exact sites (repeatability)</p>
-
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-Able to sample over variety of environments</p>
-
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-Species-level identifications<sup>1</sup></p>
-
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X<sup>2</sup>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-Genetic, morphological etc analysis possible</p>
-
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X<sup>2</sup>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-Behaviour observed</p>
-
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-Cryptofauna included</p>
-
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-Quantitative</p>
-
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-Concurrent physical and biological data</p>
-
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-Minimal technical expertise</p>
-
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X<sup>3</sup>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-Vessel flexibility</p>
-
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>X<sup>3</sup>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="7" ><sup>1</sup> Refers to identifications able to be made with unknown or cryptic species (i.e. well-known, distinctive species can be identified via imagery)
-<p>
-<sup>2</sup> Only possible when the ROV is equipped with sampling capability. This is outside the focus on the ROV manual
-<p>
-<sup>3</sup> This only applies to small off-the-shelf ROVs, Working class ROVs require technical expertise and specific vessel specifications
-   </td>
-   <td>
-   </td>
-  </tr>
+</tbody>
 </table>
 
