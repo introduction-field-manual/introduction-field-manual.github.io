@@ -34,3 +34,4 @@ Przeslawski R, Foster S, Gibbons B, Langlois T.. 2020. Introduction. In Field Ma
 |  **[Collaborators](https://introduction-field-manual.github.io/collaborators)**                                        |
 |  **[References](https://introduction-field-manual.github.io/references)**                                              |
 
+<a href="#" class="scrollUpButton">Back to top</a>
