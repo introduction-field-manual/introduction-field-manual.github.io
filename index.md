@@ -2,15 +2,16 @@
 layout: main
 permalink: /
 title: "Introduction"
-excerpt: "Rachel Przeslawski, Scott Foster, Brooke Gibbons & Tim Langlois"
+excerpt: ""
 image:
   feature: /banners/development_banner.jpg
 ---
 
-Przeslawski R, Foster S, Gibbons B, Langlois T.. 2020. Introduction. In Field Manuals for Marine Sampling to Monitor Australian Waters, Version 2. Przeslawski R, Foster S (Eds). National Environmental Science Program (NESP). 
-
+<div align="center"><h3>Rachel Przeslawski, Scott Foster, Brooke Gibbons & Tim Langlois</h3></div>
+<br>
 <img src="images/Introduction.jpg" width="100%">
-
+<br>
+<div align="center"><h4>Przeslawski R, Foster S, Gibbons B, Langlois T.. 2020. Introduction. In Field Manuals for Marine Sampling to Monitor Australian Waters, Version 2. Przeslawski R, Foster S (Eds). National Environmental Science Program (NESP).</h4></div>
 
 | Chapter Contents                                                                                                       |
 |------------------------------------------------------------------------------------------------------------------------|
