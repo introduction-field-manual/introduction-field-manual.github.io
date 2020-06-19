@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: "Introduction"
-excerpt: "<br>"
+excerpt: "<a href="https://introduction-field-manual.github.io/files/Chapter%201_Introduction%20Field%20Manual%20V2.pdf" class="btn" target="_blank"><i class="fa fa-download"></i> "Download Manual</a>"
 image:
   feature: /banners/development_banner.jpg
 page.button1.external_url:
