@@ -6,8 +6,6 @@ excerpt: ""
 image:
   feature: /banners/development_banner.jpg
 ---
-<a href="https://introduction-field-manual.github.io/files/Chapter%201_Introduction%20Field%20Manual%20V2.pdf" class="btn"><i class="fa fa-download"></i>Download Manual</a>
-
 
 Rachel Przeslawski, Scott Foster, Brooke Gibbons & Tim Langlois
 
