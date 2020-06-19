@@ -7,7 +7,7 @@ image:
   feature: /banners/development_banner.jpg
 ---
 
-<div align="center"><h3>Rachel Przeslawski, Scott Foster, Brooke Gibbons & Tim Langlois</h3></div>
+<div align="center"><p style="font-size:18px;">Rachel Przeslawski, Scott Foster, Brooke Gibbons & Tim Langlois</p></div>
 <br>
 <img src="images/Introduction.jpg" width="100%">
 <br>
