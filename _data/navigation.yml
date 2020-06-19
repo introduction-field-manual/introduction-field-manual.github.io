@@ -1,7 +1,7 @@
 # Site navigation links
-- title: "Download Field Manual"
+- title: "Download Chapter"
   url: https://introduction-field-manual.github.io/files/Chapter%201_Introduction%20Field%20Manual%20V2.pdf
-  excerpt: "Download Chapter as a PDF"
+  excerpt: ""
   image: /teasers/download_teaser.jpg
 - title: "Background"
   url: https://introduction-field-manual.github.io/background
@@ -21,11 +21,11 @@
   image: /teasers/development_teaser.jpg
 - title: "Universal Protocols"
   url: https://introduction-field-manual.github.io/universal-protocols
-  excerpt: "Sampling design, permits, risk assessments, QAQC, data discoverability and accessibility and post-survey reports"
+  excerpt: ""
   image: /teasers/universal_protocols_teaser.jpg
 - title: "Outreach and Maintenance"
   url: https://introduction-field-manual.github.io/outreach-and-maintenance
-  excerpt: "Updates and developments"
+  excerpt: ""
   image: /teasers/outreach_teaser.jpg
 - title: "Version 2 - Updates and Revisions"
   url: https://introduction-field-manual.github.io/updates-and-revisions
@@ -37,5 +37,5 @@
   image: /teasers/collaborators_teaser.jpg
 - title: "References"
   url: https://introduction-field-manual.github.io/references
-  excerpt: "Literature Cited"
+  excerpt: ""
   image: /teasers/references_teaser.jpg
