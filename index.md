@@ -7,7 +7,7 @@ image:
   feature: /banners/development_banner.jpg
 ---
 
-<div align="center"><p style="font-size:18px;"><a href="mailto:rachel.przeslawski@ga.gov.au">Rachel Przeslawski</a>, Scott Foster, Brooke Gibbons & Tim Langlois</p></div>
+<div align="center"><p style="font-size:22px;"><a href="mailto:rachel.przeslawski@ga.gov.au">Rachel Przeslawski</a>, Scott Foster, Brooke Gibbons & Tim Langlois</p></div>
 <br>
 <img src="images/Introduction.jpg" width="100%">
 <br>
