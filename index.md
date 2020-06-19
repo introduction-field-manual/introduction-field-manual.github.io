@@ -2,13 +2,15 @@
 layout: home
 permalink: /
 title: "Introduction"
-excerpt: "<a href="https://introduction-field-manual.github.io/files/Chapter%201_Introduction%20Field%20Manual%20V2.pdf" class="btn" target="_blank"><i class="fa fa-download"></i>Download Manual</a>"
+excerpt: ""
 image:
   feature: /banners/development_banner.jpg
 page.button1.external_url:
   url: https://www.nespmarine.edu.au/
   caption: NESP
 ---
+
+<a href="https://introduction-field-manual.github.io/files/Chapter%201_Introduction%20Field%20Manual%20V2.pdf" class="btn" target="_blank"><i class="fa fa-download"></i>Download Manual</a>
 
 Rachel Przeslawski, Scott Foster, Brooke Gibbons & Tim Langlois
 
