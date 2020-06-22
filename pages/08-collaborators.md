@@ -17,6 +17,7 @@ All individuals that contributed to versions 1 or 2 of this field manual package
 *   _Reviewers_ provided assessments of draft chapters. In some cases, reviewers of Version 1 became co-authors of Version 2 due to their extensive contributions.
 
 <table>
+<thead>
   <tr>
    <td>
 First name
@@ -30,6 +31,8 @@ First name
    <td>Chapter
    </td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td>Rachel
    </td>
@@ -1662,6 +1665,7 @@ First name
    <td>TowVid
    </td>
   </tr>
+  </tbody>
 </table>
 
 
