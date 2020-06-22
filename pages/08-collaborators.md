@@ -8,9 +8,9 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
+# Collaborators
+
 All individuals that contributed to versions 1 or 2 of this field manual package are listed below, with the following categories assigned based on their level of contribution:
-
-
 
 *   _Editors_ oversaw production of the entire field manual package, ensuring fit-for-purpose content and consistent scope, style, and formatting throughout.
 *   _Lead authors_ led working groups associated with discrete chapters or sampling platforms.
@@ -101,7 +101,7 @@ First name
    </td>
    <td>Lead author
    </td>
-   <td>BRUV, P_BRUV
+   <td>BRUV, P_BRUV, Introduction
    </td>
   </tr>
   <tr>
@@ -165,6 +165,18 @@ First name
    </td>
   </tr>
   <tr>
+   <td>Rene
+   </td>
+   <td>Abesamis
+   </td>
+   <td>Silliman University
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
+   </td>
+  </tr>
+  <tr>
    <td>Franzis
    </td>
    <td>Althaus
@@ -174,6 +186,18 @@ First name
    <td>Author
    </td>
    <td>Sled, TowVid
+   </td>
+  </tr>
+  <tr>
+   <td>Jacob
+   </td>
+   <td>Asher
+   </td>
+   <td>NOAA
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
    </td>
   </tr>
   <tr>
@@ -213,6 +237,30 @@ First name
    </td>
   </tr>
   <tr>
+   <td>Anthony
+   </td>
+   <td>Bernard
+   </td>
+   <td>South African Institute for Aquatic Biodiversity
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
+   </td>
+  </tr>
+  <tr>
+   <td>Matthew
+   </td>
+   <td>Birt
+   </td>
+   <td>AIMS
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
+   </td>
+  </tr>
+  <tr>
    <td>Todd
    </td>
    <td>Bond
@@ -234,6 +282,18 @@ First name
    <td>Author
    </td>
    <td>AUV
+   </td>
+  </tr>
+  <tr>
+   <td>Mike
+   </td>
+   <td>Cappo
+   </td>
+   <td>AIMS
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
    </td>
   </tr>
   <tr>
@@ -275,7 +335,7 @@ First name
   <tr>
    <td>Leanne
    </td>
-   <td>Currey
+   <td>Currey-Randall
    </td>
    <td>AIMS
    </td>
@@ -333,6 +393,18 @@ First name
    </td>
   </tr>
   <tr>
+   <td>Damon
+   </td>
+   <td>Driessen
+   </td>
+   <td>Curtin
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
+   </td>
+  </tr>
+  <tr>
    <td>Graham
    </td>
    <td>Edgar
@@ -354,6 +426,18 @@ First name
    <td>Author
    </td>
    <td>MBES
+   </td>
+  </tr>
+  <tr>
+   <td>David
+   </td>
+   <td>Fairclough
+   </td>
+   <td>Curtin, WA Dept Primary Industries
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
    </td>
   </tr>
   <tr>
@@ -405,6 +489,18 @@ First name
    </td>
   </tr>
   <tr>
+   <td>Laura
+   </td>
+   <td>Fullwood
+   </td>
+   <td>Curtin
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
+   </td>
+  </tr>
+  <tr>
    <td>Brooke
    </td>
    <td>Gibbons
@@ -413,7 +509,7 @@ First name
    </td>
    <td>Author
    </td>
-   <td>Introduction, Developer
+   <td>Introduction, BRUV
    </td>
   </tr>
   <tr>
@@ -453,6 +549,18 @@ First name
    </td>
   </tr>
   <tr>
+   <td>Euan
+   </td>
+   <td>Harvey
+   </td>
+   <td>Curtin
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
+   </td>
+  </tr>
+  <tr>
    <td>Keith
    </td>
    <td>Hayes
@@ -485,7 +593,7 @@ First name
    </td>
    <td>Author
    </td>
-   <td>Stats
+   <td>Stats, Grab
    </td>
   </tr>
   <tr>
@@ -498,6 +606,42 @@ First name
    <td>Author
    </td>
    <td>Stats
+   </td>
+  </tr>
+  <tr>
+   <td>Michelle
+   </td>
+   <td>Heupel
+   </td>
+   <td>AIMS, IMOS
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
+   </td>
+  </tr>
+  <tr>
+   <td>Jamie
+   </td>
+   <td>Hicks
+   </td>
+   <td>SA Dept Env and Water
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
+   </td>
+  </tr>
+  <tr>
+   <td>Tom
+   </td>
+   <td>Holmes
+   </td>
+   <td>WA Department of Biodiversity
+   </td>
+   <td>Author, Contributor
+   </td>
+   <td>BRUV, Intro
    </td>
   </tr>
   <tr>
@@ -521,7 +665,7 @@ First name
    </td>
    <td>Author, Contributor
    </td>
-   <td>TowVid, AUV, MBES
+   <td>TowVid, AUV, BRUV, MBES
    </td>
   </tr>
   <tr>
@@ -541,11 +685,11 @@ First name
    </td>
    <td>Jordan
    </td>
-   <td>NSW Dept Primary Industries
+   <td>NSW Dept Primary Industries, Utas
    </td>
    <td>Author
    </td>
-   <td>TowVid, AUV, MBES
+   <td>TowVid, AUV, BRUV, MBES
    </td>
   </tr>
   <tr>
@@ -570,6 +714,18 @@ First name
    <td>Author
    </td>
    <td>Grab
+   </td>
+  </tr>
+  <tr>
+   <td>Nathan
+   </td>
+   <td>Knott
+   </td>
+   <td>NSW Dept Primary Industries
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
    </td>
   </tr>
   <tr>
@@ -641,7 +797,7 @@ First name
    </td>
    <td>Author
    </td>
-   <td>ROV
+   <td>BRUV, ROV
    </td>
   </tr>
   <tr>
@@ -657,6 +813,18 @@ First name
    </td>
   </tr>
   <tr>
+   <td>Mark
+   </td>
+   <td>Meekan
+   </td>
+   <td>AIMS
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
+   </td>
+  </tr>
+  <tr>
    <td>Jessica
    </td>
    <td>Meeuwig
@@ -666,6 +834,42 @@ First name
    <td>Author
    </td>
    <td>P_BRUV
+   </td>
+  </tr>
+  <tr>
+   <td>David
+   </td>
+   <td>Miller
+   </td>
+   <td>SA Dept Env and Water
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
+   </td>
+  </tr>
+  <tr>
+   <td>Peter
+   </td>
+   <td>Mitchell
+   </td>
+   <td>Centre for Environment Fisheries and Aquaculture Science
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
+   </td>
+  </tr>
+  <tr>
+   <td>Stephen
+   </td>
+   <td>Newman
+   </td>
+   <td>Curtin, WA Dept Primary Industries
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
    </td>
   </tr>
   <tr>
@@ -697,7 +901,7 @@ First name
    </td>
    <td>Parnum
    </td>
-   <td>Curtin University
+   <td>Curtin
    </td>
    <td>Author
    </td>
@@ -741,6 +945,18 @@ First name
    </td>
   </tr>
   <tr>
+   <td>Ben
+   </td>
+   <td>Radford
+   </td>
+   <td>AIMS
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
+   </td>
+  </tr>
+  <tr>
    <td>Matt
    </td>
    <td>Rees
@@ -753,6 +969,18 @@ First name
    </td>
   </tr>
   <tr>
+   <td>Fernanda 
+   </td>
+   <td>Rolim
+   </td>
+   <td>São Paulo State University
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
+   </td>
+  </tr>
+  <tr>
    <td>Julia
    </td>
    <td>Santana-Garcon
@@ -762,6 +990,18 @@ First name
    <td>Author
    </td>
    <td>P_BRUV
+   </td>
+  </tr>
+  <tr>
+   <td>Benjamin
+   </td>
+   <td>Saunders
+   </td>
+   <td>Curtin
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
    </td>
   </tr>
   <tr>
@@ -786,6 +1026,18 @@ First name
    <td>Author
    </td>
    <td>MBES
+   </td>
+  </tr>
+  <tr>
+   <td>Adam
+   </td>
+   <td>Smith
+   </td>
+   <td>Massey University
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
    </td>
   </tr>
   <tr>
@@ -821,7 +1073,7 @@ First name
    </td>
    <td>Author
    </td>
-   <td>TowVid
+   <td>TowVid, BRUV
    </td>
   </tr>
   <tr>
@@ -885,6 +1137,18 @@ First name
    </td>
   </tr>
   <tr>
+   <td>Michael
+   </td>
+   <td>Travers
+   </td>
+   <td>Curtin, WA Dept Primary Industries
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
+   </td>
+  </tr>
+  <tr>
    <td>Aaron
    </td>
    <td>Tyndall
@@ -906,6 +1170,18 @@ First name
    <td>Author
    </td>
    <td>P_BRUV
+   </td>
+  </tr>
+  <tr>
+   <td>Corey
+   </td>
+   <td>Wakefield
+   </td>
+   <td>Curtin, WA Dept Primary Industries
+   </td>
+   <td>Author
+   </td>
+   <td>BRUV
    </td>
   </tr>
   <tr>
@@ -949,7 +1225,7 @@ First name
    </td>
    <td>Bax
    </td>
-   <td>NESP, CSIRO
+   <td>UTas
    </td>
    <td>Reviewer
    </td>
@@ -997,7 +1273,7 @@ First name
    </td>
    <td>Gansell
    </td>
-   <td>Department of Conservation, NZ
+   <td>Department of Conservation, New Zealand
    </td>
    <td>Reviewer
    </td>
@@ -1093,7 +1369,7 @@ First name
    </td>
    <td>van Dam-Bates
    </td>
-   <td>Department of Conservation, NZ
+   <td>Department of Conservation, New Zealand
    </td>
    <td>Reviewer
    </td>
@@ -1209,18 +1485,6 @@ First name
    </td>
   </tr>
   <tr>
-   <td>Tom
-   </td>
-   <td>Holmes
-   </td>
-   <td>WA Department of Biodiversity
-   </td>
-   <td>Contributor
-   </td>
-   <td>BRUV, Intro
-   </td>
-  </tr>
-  <tr>
    <td>Steffan
    </td>
    <td>Howe
@@ -1273,7 +1537,7 @@ First name
    </td>
    <td>Lytton
    </td>
-   <td>Australian Hydrographic Office
+   <td>RAN AHO
    </td>
    <td>Contributor
    </td>
@@ -1321,7 +1585,7 @@ First name
    </td>
    <td>Pugsley
    </td>
-   <td>AMSA
+   <td>Australian Maritime Safety Authority
    </td>
    <td>Contributor
    </td>
@@ -1369,7 +1633,7 @@ First name
    </td>
    <td>Townsend
    </td>
-   <td>Australian Hydrographic Office
+   <td>RAN AHO
    </td>
    <td>Contributor
    </td>
@@ -1381,7 +1645,7 @@ First name
    </td>
    <td>Waterson
    </td>
-   <td>Australian Hydrographic Service
+   <td>RAN AHO
    </td>
    <td>Contributor
    </td>
