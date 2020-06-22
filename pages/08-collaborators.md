@@ -8,8 +8,6 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
-# Collaborators
-
 All individuals that contributed to versions 1 or 2 of this field manual package are listed below, with the following categories assigned based on their level of contribution:
 
 *   _Editors_ oversaw production of the entire field manual package, ensuring fit-for-purpose content and consistent scope, style, and formatting throughout.
