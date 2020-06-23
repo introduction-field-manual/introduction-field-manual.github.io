@@ -27,8 +27,8 @@ The process used to develop each field manual included in this package is shown 
 
 <img src="images/figures/image2.png" width="75%" align="middle">
 
-Figure 2 Flow chart showing the iterative process used in the initial development of this field manual package (version 1, orange and green), as well as version 2 and subsequent future versions (orange only).
+**Figure 2:** Flow chart showing the iterative process used in the initial development of this field manual package (version 1, orange and green), as well as version 2 and subsequent future versions (orange only).
 
 <img src="images/figures/image3.jpg" width="75%" align="middle">
 
-Figure 3 Collaborative network that developed the marine sampling field manuals. Working group members are listed in a table at the end of this chapter as authors or collaborators.
+**Figure 3:** Collaborative network that developed the marine sampling field manuals. Working group members are listed in a table at the end of this chapter as authors or collaborators.

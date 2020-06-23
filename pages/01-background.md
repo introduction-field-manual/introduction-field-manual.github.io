@@ -19,7 +19,7 @@ Although many biological monitoring programs focus on single elements of the mar
 
 
 
-Table 1  Large-scale biological or ecological monitoring programs currently operating or under development in Australia as of Dec 2017. UVC = underwater visual census, DOV = diver-operated video, ROV = remotely operated vehicle,  AUV = autonomous underwater vehicle, BRUV = baited remote underwater video, MBES = multibeam echosounder.
+**Table 1:**  Large-scale biological or ecological monitoring programs currently operating or under development in Australia as of Dec 2017. UVC = underwater visual census, DOV = diver-operated video, ROV = remotely operated vehicle,  AUV = autonomous underwater vehicle, BRUV = baited remote underwater video, MBES = multibeam echosounder.
 
 <table>
 <thead>
@@ -139,7 +139,7 @@ Due to the large geographic area, diverse flora and fauna, and range of environm
 
 One of the main challenges in assessing marine biodiversity is the lack of standardised approaches for monitoring it (Duffy et al. 2013, Teixeira et al. 2016). As such, the overarching goal of these field manuals is to reduce the bias and variance in data from differences in sampling procedures, thereby ensuring that patterns in data are due to patterns in the community rather than patterns of how or when the community was sampled. If the measured ecological variable and the variation in sampling techniques are confounded, it is challenging if not impossible to objectively determine if observed changes are due to real ecological change or sampling technique. If variability is sufficiently high, real changes that would trigger appropriate management may not be detected in time, if at all. Importantly, many state marine monitoring programs use their own standard operating protocols (SOPs) relevant for wetland, estuarine, embayment, or intertidal habitats (Table 1). The current package of field manuals is not meant to replace them, but rather to complement them for deeper waters and national monitoring purposes. At the same time, we hope that individual state marine monitoring programs will also identify opportunities to adjust current practices to increase national consistency and that the SOPs will provide an opportunity for industry and industry consultants to contribute to national monitoring through standardising their ongoing activities (Teytelman 2018). To that end, marine managers from all states and territories in Australia were engaged in the process of developing these field manuals. This ensured that methods were similar whenever possible and differences were clearly explained in relation to marine monitoring in Commonwealth waters. 
 
-Table 2: Summary of prioritised benthic sampling platforms and their acquisition targets
+**Table 2:** Summary of prioritised benthic sampling platforms and their acquisition targets
 
 
 <table>

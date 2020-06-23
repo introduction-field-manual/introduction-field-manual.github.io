@@ -6,6 +6,8 @@ excerpt: "Updates and Revisions"
 image:
   feature: /banners/development_banner.jpg
 ---
+{% include toc.html class="toc-left" h_min=2 h_max=2 %}
+
 Version 1 of the field manual package was released in February 2018, and Version 2 was released two years later in June 2020.
 
 All original chapters were updated in Version 2 with stakeholder feedback, corrections, and updates where applicable. The chapter ‘Seafloor Mapping Field Manual for Multibeam Sonar’ was substantially changed in Version 2 to amalgamate it with the _Australian Multibeam Guidelines_ which were released in June 2018 by [AusSeabed](http://www.ausseabed.gov.au/home), a nationally seabed mapping coordination program. The unified multibeam manual in Version 2 addresses stakeholder concerns about maintaining two separate SOPs for multibeam sonar. In addition, a new manual on ROVs was developed for the Version 2 package. The ROV was chosen based on findings from a report titled [Scoping of new field manuals for marine sampling in Australian waters](https://www.nespmarine.edu.au/system/files/Przeslawski%20et%20al%20Scoping%20new%20field%20manuals_Miilestone%2029_RPv4%202018.pdf) (Przeslawski et al. 2019b).
@@ -26,6 +28,4 @@ One of the most notable changes for Version 2 was the development of an online p
     
 ![alt_text](images/figures/image4.png "image_tooltip")
 
-
-
-Figure 4 Workflow of version control and governance for the digital field manuals of Version 2 and future versions.
+**Figure 4:** Workflow of version control and governance for the digital field manuals of Version 2 and future versions.

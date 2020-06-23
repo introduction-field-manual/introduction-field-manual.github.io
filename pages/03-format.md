@@ -14,5 +14,4 @@ The field manual package is designed to be separated into its component chapters
 
 ![alt_text](images/figures/image1.JPG "image_tooltip")
 
-
-Figure 1 The structure of the NESP field manual package (version 2) with numbers indicating respective chapters.
+**Figure 1:** The structure of the NESP field manual package (version 2) with numbers indicating respective chapters.
