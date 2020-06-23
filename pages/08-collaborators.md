@@ -19,17 +19,11 @@ All individuals that contributed to versions 1 or 2 of this field manual package
 <table>
 <thead>
   <tr>
-   <td>
-First name
-   </td>
-   <td>Surname
-   </td>
-   <td>Agency
-   </td>
-   <td>Role
-   </td>
-   <td>Chapter
-   </td>
+   <td><strong>First name</strong></td>
+   <td><strong>Surname</strong></td>
+   <td><strong>Agency</strong></td>
+   <td><strong>Role</strong></td>
+   <td><strong>Chapter</strong></td>
   </tr>
   </thead>
   <tbody>
