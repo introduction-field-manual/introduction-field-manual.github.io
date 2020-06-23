@@ -25,11 +25,10 @@ The process used to develop each field manual included in this package is shown 
 7. Feedback was solicited through a questionnaire, particularly geared towards field testers.
 8. Content of field manuals was revised based on feedback and new developments (e.g. data discoverability and accessibility). This was incorporated into Version 2, with the exception of the ROV manual which was a new addition to the Version 2 field package and thus has not yet been through a process of stakeholder feedback after release.
 
-<img src="images/figures/image2.png" width="100%">
+<img src="images/figures/image2.png" width="75%" align="middle">
 
 Figure 2 Flow chart showing the iterative process used in the initial development of this field manual package (version 1, orange and green), as well as version 2 and subsequent future versions (orange only).
 
-
-<img src="images/figures/image3.jpg" width="100%">
+<img src="images/figures/image3.jpg" width="75%" align="middle">
 
 Figure 3 Collaborative network that developed the marine sampling field manuals. Working group members are listed in a table at the end of this chapter as authors or collaborators.
