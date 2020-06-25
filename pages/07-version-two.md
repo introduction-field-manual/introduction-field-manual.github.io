@@ -22,10 +22,10 @@ One of the most notable changes for Version 2 was the development of an online p
 *   The online system readily reflects minor corrections by harvesting through the source document maintained on Google docs.
 *   Updates and version control are easier to manage through permissions on GitHub and GoogleDocs.
 *   Analytics are easily generated to track downloads which can then be incorporated into impact assessments.
-*   A clearly documented user-friendly workflow (Figure 4) will help future contributors to maintain and update existing SOPs and to develop new ones.
+*   A clearly documented user-friendly workflow (Figure 5) will help future contributors to maintain and update existing SOPs and to develop new ones.
 *   The online system will have more flexibility to embed imagery and other media (e.g. video tutorials) in future versions, thereby taking a much more modern approach than only static pdfs allow.
 
     
 ![alt_text](images/figures/image4.png "image_tooltip")
 
-**Figure 4:** Workflow of version control and governance for the digital field manuals of Version 2 and future versions.
+**Figure 5:** Workflow of version control and governance for the digital field manuals of Version 2 and future versions.

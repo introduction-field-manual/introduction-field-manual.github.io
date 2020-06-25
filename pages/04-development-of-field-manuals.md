@@ -14,9 +14,9 @@ The main challenge in the development of these manuals was to find a balance bet
 
 Ultimately, over 136 individuals from at least 53 organisations contributed to versions 1 and 2 of the field manual package (see Collaborators section in this introductory chapter). The increase in collaborators from Version 1 to Version 2 is due primarily to i) the new ROV manual, ii) expansion of the BRUV authors based on preparation of an associated manuscript to a journal, and iii) the merger of the V1 NESP field manual with AusSeabed’s _Australian Multibeam Guidelines_. By engaging researchers, managers, and technicians from multiple agencies with a variety of experience, sea time, and subject matter expertise, we strove to ensure the field manuals represented the broader marine science community of Australia including real-world context, diversity of experiences, and candid acknowledgement of limitations and challenges. This not only improved the content but also increased the potential for adoption of the SOPs across multiple agencies and monitoring programs. After the release of the first version, input from additional stakeholders was actively sought and incorporated into the second version (see the section ‘[Version 2 - Updates and Revisions](https://introduction-field-manual.github.io/updates-and-revisions)’ later in this chapter).
 
-The process used to develop each field manual included in this package is shown in Figure 2, and the steps are listed below: 
+The process used to develop each field manual included in this package is shown in Figure 3, and the steps are listed below: 
 
-1. For each field manual, a working group was formed in which known users of the given sampling platform were invited. To be as inclusive as possible, we also extended more general invitations through email lists (e.g. Australian Coral Reef Society, Australian Marine Science Association (AMSA), NESP) and presentations (e.g. AMSA 2017 conference). Each working group was led by a coordinator(s) to develop content. Coordinators were identified as experts in their particular sampling platform and took on the role of lead author(s) for their respective field manual (Figure 3).
+1. For each field manual, a working group was formed in which known users of the given sampling platform were invited. To be as inclusive as possible, we also extended more general invitations through email lists (e.g. Australian Coral Reef Society, Australian Marine Science Association (AMSA), NESP) and presentations (e.g. AMSA 2017 conference). Each working group was led by a coordinator(s) to develop content. Coordinators were identified as experts in their particular sampling platform and took on the role of lead author(s) for their respective field manual (Figure 4).
 2. Content was developed by the coordinators based on meetings with the working group and associated input, including existing SOPs.
 3. A draft field manual was distributed to the working group as a strawman for further discussion and refinement.
 4. A complete field manual was submitted for internal review and approval by the editors, NESP, Geoscience Australia, and IMOS.
@@ -27,8 +27,8 @@ The process used to develop each field manual included in this package is shown 
 
 <img src="images/figures/image2.png" width="75%" align="middle">
 
-**Figure 2:** Flow chart showing the iterative process used in the initial development of this field manual package (version 1, orange and green), as well as version 2 and subsequent future versions (orange only).
+**Figure 3:** Flow chart showing the iterative process used in the initial development of this field manual package (version 1, orange and green), as well as version 2 and subsequent future versions (orange only).
 
 <img src="images/figures/image3.jpg" width="75%" align="middle">
 
-**Figure 3:** Collaborative network that developed the marine sampling field manuals. Working group members are listed in a table at the end of this chapter as authors or collaborators.
+**Figure 4:** Collaborative network that developed the marine sampling field manuals. Working group members are listed in a table at the end of this chapter as authors or collaborators.
