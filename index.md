@@ -11,7 +11,7 @@ image:
 <img src="images/Introduction.jpg" width="100%">
 <br>
 <br>
-<strong>Chapter citation:</strong><br>Przeslawski R, Foster S, Gibbons B, Langlois T.. 2020. Introduction. In <i>Field Manuals for Marine Sampling to Monitor Australian Waters, Version 2</i>. Przeslawski R, Foster S (Eds). National Environmental Science Program (NESP).
+<strong>Chapter citation:</strong><br>Przeslawski R, Foster S, Gibbons B, Langlois T. 2020. Introduction. In <i>Field Manuals for Marine Sampling to Monitor Australian Waters, Version 2</i>. Przeslawski R, Foster S (Eds). National Environmental Science Program (NESP).
 
 
 | Chapter Contents                                                                                                       |
