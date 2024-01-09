@@ -204,589 +204,309 @@ Importantly, many state marine monitoring programs use their own standard operat
  
 
 **Table 2:** Summary of prioritised benthic sampling platforms and their acquisition targets. See text above for definition of abbreviations and acronyms.
-
-
-<!-----
-
-
-
-Conversion time: 1.163 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β35
-* Mon Jan 08 2024 21:59:51 GMT-0800 (PST)
-* Source doc: Chapter 1_Introduction Field Manual V2
-* This is a partial selection. Check to make sure intra-doc links work.
------>
-
-
-   <td>
-   </td>
-   <td>Data Type
-
-   </td>
-   <td>Data Target
-
-   </td>
-   <td>Spatial coverage
-
-   </td>
-   <td>Environment
-
-   </td>
-   <td>Chapter
-
-   </td>
-   <td>MBES
-
-   </td>
-   <td>Bathymetry, backscatter
-
-   </td>
-   <td>Seafloor
-
-   </td>
-   <td>Continuous
-
-   </td>
-   <td>All
-
-   </td>
-   <td>3
-
-   </td>
-   <td>AUV
-
-   </td>
-   <td>Imagery
-
-   </td>
-   <td>Epifauna, habitat
-
-   </td>
-   <td>Continuous
-
-   </td>
-   <td>All
-
-   </td>
-   <td>4
-
-   </td>
-   <td>BRUV
-
-   </td>
-   <td>Imagery
-
-   </td>
-   <td>Demersal fish, habitat
-
-   </td>
-   <td>Point (qualitative)
-
-   </td>
-   <td>All
-
-   </td>
-   <td>5
-
-   </td>
-   <td>Towed 
-
-   </td>
-   <td>Imagery
-
-   </td>
-   <td>Epifauna,habitat
-
-   </td>
-   <td>Transect
-
-   </td>
-   <td>All
-
-   </td>
-   <td>7
-
-   </td>
-   <td>Grab/Boxcore
-
-   </td>
-   <td>Biological and sediment samples
-
-   </td>
-   <td>Macrofauna, infauna
-
-   </td>
-   <td>Point
-
-   </td>
-   <td>Unconsolidated substrate
-
-   </td>
-   <td>8
-
-   </td>
-   <td>Sled/Trawl
-
-   </td>
-   <td>Biological and sediment samples
-
-   </td>
-   <td>Megafauna, epifauna
-
-   </td>
-   <td>Transect (qualitative)
-
-   </td>
-   <td>Consolidated substrate
-
-   </td>
-   <td>9
-
-   </td>
-   <td>ROV
-
-   </td>
-   <td>Imagery*
-
-   </td>
-   <td>Epifauna, habitat
-
-   </td>
-   <td>Transect
-
-   </td>
-   <td>All
-
-   </td>
-   <td>10
-
-   </td>
-   <td>Drop cam
-
-   </td>
-   <td>Imagery
-
-   </td>
-   <td>Epifauna, habitat
-
-   </td>
-   <td>Point (qualitative)
-
-   </td>
-   <td>All
-
-   </td>
-   <td>11
-
-   </td>
-   <td>Survey design
-
-   </td>
-   <td colspan="4" >n/a, this field manual is not based on a benthic sampling platform
-
-   </td>
-   <td>2
-
-   </td>
-   <td>Pelagic BRUV
-
-   </td>
-   <td colspan="4" >n/a, this field manual is not based on a benthic sampling platform
-
-   </td>
-   <td>6
-
-   </td>
-   <td>KAP surveys
-
-   </td>
-   <td colspan="4" >n/a, this field manual is not based on a benthic sampling platform
-
-   </td>
-   <td>12
-
-   </td>
-   <td>Microplastics
-
-   </td>
-   <td colspan="4" >n/a, this field manual is not based on a benthic sampling platform
-
-   </td>
-   <td>13
-
-   </td>
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-aoc0{background-color:#629ACD;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-5jfb{background-color:#CFE2F3;text-align:left;vertical-align:top}
+.tg .tg-61in{background-color:#629ACD;text-align:left;vertical-align:top}
+.tg .tg-q06y{background-color:#CFE2F3;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 949px">
+<colgroup>
+<col style="width: 107px">
+<col style="width: 215px">
+<col style="width: 181px">
+<col style="width: 168px">
+<col style="width: 169px">
+<col style="width: 109px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-61in"></th>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Data Type</span></th>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Data Target</span></th>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Spatial coverage</span></th>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Environment</span></th>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Chapter</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">MBES</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Bathymetry, backscatter</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Seafloor</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Continuous</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">All</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">AUV</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Imagery</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Epifauna, habitat</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Continuous</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">All</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">4</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">BRUV</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Imagery</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Demersal fish, habitat</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Point (qualitative)</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">All</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">5</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Towed </span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Imagery</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Epifauna,habitat</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Transect</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">All</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">7</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Grab/Boxcore</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Biological and sediment samples</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Macrofauna, infauna</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Point</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Unconsolidated substrate</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">8</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sled/Trawl</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Biological and sediment samples</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Megafauna, epifauna</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Transect (qualitative)</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Consolidated substrate</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">9</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">ROV</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Imagery*</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Epifauna, habitat</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Transect</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">All</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">10</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Drop cam</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Imagery</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Epifauna, habitat</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Point (qualitative)</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">All</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">11</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Survey design</span></td>
+    <td class="tg-5jfb" colspan="4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">n/a, this field manual is not based on a benthic sampling platform</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Pelagic BRUV</span></td>
+    <td class="tg-5jfb" colspan="4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">n/a, this field manual is not based on a benthic sampling platform</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">KAP surveys</span></td>
+    <td class="tg-5jfb" colspan="4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">n/a, this field manual is not based on a benthic sampling platform</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">12</span></td>
+  </tr>
+  <tr>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Microplastics</span></td>
+    <td class="tg-5jfb" colspan="4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">n/a, this field manual is not based on a benthic sampling platform</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">13</span></td>
+  </tr>
+</tbody>
+</table>
 *ROVs can collect biological and geological samples, but the focus of the manual in this package is on imagery.
 
 **Table 3:** Advantages of prioritised benthic sampling platforms.
-<td>
-   </td>
-   <td>MBES
-</p>
-   </td>
-   <td>AUV
-</p>
-   </td>
-   <td>BRUV
-</p>
-   </td>
-   <td>Towed
-</p>
-   </td>
-   <td>Grab/Boxcorer
-</p>
-   </td>
-   <td>Sled/Trawl
-</p>
-   </td>
-   <td>ROV
-</p>
-   </td>
-   <td>Drop Cam
-</p>
-   </td>
-   <td><p style="text-align: right">
-Continuous (i.e. grid) broad-scale spatial coverage</p>
-
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-Continuous (i.e. grid) fine-scale spatial coverage</p>
-
-</p>
-   </td>
-   <td>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-Non-extractive</p>
-
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td><p style="text-align: right">
-Able to revisit exact sites (repeatability)</p>
-
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-Able to sample over variety of environments</p>
-
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td><p style="text-align: right">
-Species-level identifications<sup>1</sup></p>
-
-</p>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X<sup>2</sup>
-</p>
-   </td>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-Genetic, morphological etc analysis possible</p>
-
-</p>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X<sup>2</sup>
-</p>
-   </td>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-Behaviour observed</p>
-
-</p>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td><p style="text-align: right">
-Cryptofauna included</p>
-
-</p>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-Quantitative</p>
-
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td><p style="text-align: right">
-Concurrent physical and biological data</p>
-
-</p>
-   </td>
-   <td>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td><p style="text-align: right">
-Minimal technical expertise</p>
-
-</p>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X<sup>3</sup>
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td><p style="text-align: right">
-Vessel flexibility</p>
-
-</p>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>X
-</p>
-   </td>
-   <td>
-   </td>
-   <td>X<sup>3</sup>
-</p>
-   </td>
-   <td>
-   </td>
-   <td colspan="9" ><sup>1</sup> Refers to identifications able to be made with unknown or cryptic species (i.e. well-known, distinctive species can be identified via imagery)
-</p>
-<p>
-<sup>2</sup> Only possible when the ROV is equipped with sampling capability. This is outside the focus on the ROV manual
-</p>
-<p>
-<sup>3</sup> This only applies to small off-the-shelf ROVs, Working class ROVs require technical expertise and specific vessel specifications
-</p>
-   </td>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 7px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 7px;word-break:normal;}
+.tg .tg-jdcy{background-color:#629ACD;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-5jfb{background-color:#CFE2F3;text-align:left;vertical-align:top}
+.tg .tg-p6ru{background-color:#629ACD;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-cs76{background-color:#CFE2F3;text-align:right;vertical-align:top}
+.tg .tg-a5br{background-color:#CFE2F3;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1247px">
+<colgroup>
+<col style="width: 335px">
+<col style="width: 114px">
+<col style="width: 114px">
+<col style="width: 114px">
+<col style="width: 114px">
+<col style="width: 114px">
+<col style="width: 114px">
+<col style="width: 114px">
+<col style="width: 114px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-p6ru"></th>
+    <th class="tg-jdcy"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">MBES</span></th>
+    <th class="tg-jdcy"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">AUV</span></th>
+    <th class="tg-jdcy"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">BRUV</span></th>
+    <th class="tg-jdcy"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Towed</span></th>
+    <th class="tg-jdcy"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Grab/Boxcorer</span></th>
+    <th class="tg-jdcy"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Sled/Trawl</span></th>
+    <th class="tg-jdcy"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">ROV</span></th>
+    <th class="tg-jdcy"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Drop Cam</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cs76"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Continuous (i.e. grid) broad-scale spatial coverage</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+  </tr>
+  <tr>
+    <td class="tg-cs76"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Continuous (i.e. grid) fine-scale spatial coverage</span></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+  </tr>
+  <tr>
+    <td class="tg-cs76"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Non-extractive</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cs76"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Able to revisit exact sites (repeatability)</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-5jfb"></td>
+  </tr>
+  <tr>
+    <td class="tg-cs76"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Able to sample over variety of environments</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cs76"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Species-level identifications</span>1</td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span>2</td>
+    <td class="tg-5jfb"></td>
+  </tr>
+  <tr>
+    <td class="tg-cs76"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Genetic, morphological etc analysis possible</span></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span>2</td>
+    <td class="tg-5jfb"></td>
+  </tr>
+  <tr>
+    <td class="tg-cs76"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Behaviour observed</span></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cs76"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Cryptofauna included</span></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+  </tr>
+  <tr>
+    <td class="tg-cs76"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Quantitative</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cs76"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Concurrent physical and biological data</span></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cs76"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Minimal technical expertise</span></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span>3</td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cs76"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Vessel flexibility</span></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span>3</td>
+    <td class="tg-5jfb"></td>
+  </tr>
+  <tr>
+    <td class="tg-5jfb" colspan="9">1<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> Refers to identifications able to be made with unknown or cryptic species (i.e. well-known, distinctive species can be identified via imagery)</span><br>2<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> Only possible when the ROV is equipped with sampling capability. This is outside the focus on the ROV manual</span><br>3<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> This only applies to small off-the-shelf ROVs, Working class ROVs require technical expertise and specific vessel specifications</span></td>
+  </tr>
+</tbody>
+</table>
