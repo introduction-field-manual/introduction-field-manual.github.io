@@ -168,8 +168,8 @@ Although many biological monitoring programs focus on single elements of the mar
 </tbody>
 </table>
    
-* Primarily benthic and demersal platforms, but also includes an emergent pelagic method (Pelagic BRUVs)
-** Citizen science program
+<sup>*</sup> Primarily benthic and demersal platforms, but also includes an emergent pelagic method (Pelagic BRUVs)
+<sup>**</sup> Citizen science program
 
 
 Due to the large geographic area, diverse flora and fauna, and range of environmental conditions represented by the Australian Marine estate, a single method of sampling is neither practical nor desirable (Bouchet et al. 2018, Przeslawski et al. 2018). For this reason, we present a standard approach for each of eight key marine benthic sampling platforms that were identified based on frequency of use in previous open water sampling and monitoring programs: 
