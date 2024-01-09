@@ -10,11 +10,11 @@ image:
 
 All individuals that contributed to versions 1, 2 or 3 of this field manual package are listed below, with the following categories assigned based on their level of contribution:
 
-* _Editors _oversaw production of the entire field manual package, ensuring fit-for-purpose content and consistent scope, style, and formatting throughout.
-* _Lead authors _led working groups associated with discrete chapters or sampling platforms.
-* _Authors _helped write chapters or provided crucial information to do so.
-* _Contributors _participated in working group discussions.
-* _Reviewers _provided assessments of draft chapters. In some cases, reviewers of Version 1 became co-authors of Version 2 due to their extensive contributions.
+* _Editors_ oversaw production of the entire field manual package, ensuring fit-for-purpose content and consistent scope, style, and formatting throughout.
+* _Lead authors_ led working groups associated with discrete chapters or sampling platforms.
+* _Authors_ helped write chapters or provided crucial information to do so.
+* _Contributors_ participated in working group discussions.
+* _Reviewers_ provided assessments of draft chapters. In some cases, reviewers of Version 1 became co-authors of Version 2 due to their extensive contributions.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
