@@ -33,18 +33,17 @@ Although many biological monitoring programs focus on single elements of the mar
 .tg .tg-61in{background-color:#629ACD;text-align:left;vertical-align:top}
 .tg .tg-m2ps{background-color:#DDD9C4;text-align:center;vertical-align:top}
 .tg .tg-veas{background-color:#E5DFEC;text-align:left;vertical-align:top}
-.tg .tg-avgc{background-color:#e5dfec;text-align:left;vertical-align:top}
 .tg .tg-dot8{background-color:#CFE2F3;color:#15C;text-align:left;text-decoration:underline;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 2151px">
+<table class="tg" style="undefined;table-layout: fixed; width: 1352px">
 <colgroup>
+<col style="width: 22px">
 <col style="width: 25px">
-<col style="width: 29px">
-<col style="width: 361px">
-<col style="width: 153px">
-<col style="width: 451px">
-<col style="width: 737px">
-<col style="width: 395px">
+<col style="width: 302px">
+<col style="width: 98px">
+<col style="width: 301px">
+<col style="width: 302px">
+<col style="width: 302px">
 </colgroup>
 <thead>
   <tr>
@@ -59,7 +58,7 @@ Although many biological monitoring programs focus on single elements of the mar
 <tbody>
   <tr>
     <td class="tg-hacp" rowspan="9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">P E L A G I C</span></td>
-    <td class="tg-avgc" rowspan="4"></td>
+    <td class="tg-veas" rowspan="6"></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Continuous Plankton Recorder (CPR)</span></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Global</span></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Plankton assemblages, colour index</span></td>
@@ -88,7 +87,6 @@ Although many biological monitoring programs focus on single elements of the mar
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sloyan and O’Kane 2015</span></td>
   </tr>
   <tr>
-    <td class="tg-avgc"></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Aquawatch</span></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">National</span></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Various</span></td>
@@ -96,7 +94,6 @@ Although many biological monitoring programs focus on single elements of the mar
     <td class="tg-dot8"><a href="https://www.csiro.au/en/about/challenges-missions/aquawatch"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">https://www.csiro.au/en/about/challenges-missions/aquawatch</span></a></td>
   </tr>
   <tr>
-    <td class="tg-avgc"></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Australian Microbiome Initiative</span></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">National</span></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Microbial and zooplankton DNA</span></td>
@@ -126,16 +123,15 @@ Although many biological monitoring programs focus on single elements of the mar
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Thomson et al. 2017</span></td>
   </tr>
   <tr>
-    <td class="tg-veas"></td>
-    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">RedMap**</span></td>
+    <td class="tg-veas" rowspan="6"></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">RedMap<sup>**</sup></span></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">National</span></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fish, invertebrates</span></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">UVC, observations</span></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Pecl et al. 2019</span></td>
   </tr>
   <tr>
-    <td class="tg-avgc" rowspan="5"></td>
-    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Reef Life Survey**</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Reef Life Survey<sup>**</sup></span></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Global</span></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Demersal fish and benthic invertebrate assemblages</span></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">UVC</span></td>
@@ -163,7 +159,7 @@ Although many biological monitoring programs focus on single elements of the mar
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Dept Biodiv Conserv Attractions 2017</span></td>
   </tr>
   <tr>
-    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">NESP field manual package*</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">NESP field manual package<sup>*</sup></span></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">National</span></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Various</span></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">MBES, AUV, BRUV, Towed camera, Sled/trawls, Grab/corer, ROV, microplastics, drop camera, socioeconomic survey</span></td>
@@ -285,7 +281,7 @@ Importantly, many state marine monitoring programs use their own standard operat
   </tr>
   <tr>
     <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">ROV</span></td>
-    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Imagery*</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Imagery<sup>*</sup></span></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Epifauna, habitat</span></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Transect</span></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">All</span></td>
@@ -321,7 +317,7 @@ Importantly, many state marine monitoring programs use their own standard operat
   </tr>
 </tbody>
 </table>
-*ROVs can collect biological and geological samples, but the focus of the manual in this package is on imagery.
+<sup>*</sup>ROVs can collect biological and geological samples, but the focus of the manual in this package is on imagery.
 
 **Table 3:** Advantages of prioritised benthic sampling platforms.
 <style type="text/css">
@@ -418,14 +414,14 @@ Importantly, many state marine monitoring programs use their own standard operat
     <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
   </tr>
   <tr>
-    <td class="tg-cs76"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Species-level identifications</span>1</td>
+    <td class="tg-cs76"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Species-level identifications</span><sup>1</sup></td>
     <td class="tg-5jfb"></td>
     <td class="tg-5jfb"></td>
     <td class="tg-5jfb"></td>
     <td class="tg-5jfb"></td>
     <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
     <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
-    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span>2</td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span><sup>2</sup></td>
     <td class="tg-5jfb"></td>
   </tr>
   <tr>
@@ -436,7 +432,7 @@ Importantly, many state marine monitoring programs use their own standard operat
     <td class="tg-5jfb"></td>
     <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
     <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
-    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span>2</td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span><sup>2</sup></td>
     <td class="tg-5jfb"></td>
   </tr>
   <tr>
@@ -491,7 +487,7 @@ Importantly, many state marine monitoring programs use their own standard operat
     <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
     <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
     <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
-    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span>3</td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span><sup>3</sup></td>
     <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
   </tr>
   <tr>
@@ -502,7 +498,7 @@ Importantly, many state marine monitoring programs use their own standard operat
     <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
     <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
     <td class="tg-5jfb"></td>
-    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span>3</td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span><sup>3</sup></td>
     <td class="tg-5jfb"></td>
   </tr>
   <tr>
