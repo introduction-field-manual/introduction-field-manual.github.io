@@ -28,7 +28,11 @@
   excerpt: ""
   image: /teasers/outreach_teaser.jpg
 - title: "Version 2 - Updates and Revisions"
-  url: https://introduction-field-manual.github.io/updates-and-revisions
+  url: https://introduction-field-manual.github.io/version-2
+  excerpt: ""
+  image: /teasers/version_2_teaser.jpg
+- title: "Version 3 - Updates and Revisions"
+  url: https://introduction-field-manual.github.io/version-3
   excerpt: ""
   image: /teasers/version_2_teaser.jpg
 - title: "Collaborators"
