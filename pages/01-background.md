@@ -21,325 +21,156 @@ Although many biological monitoring programs focus on single elements of the mar
 
 **Table 1:**  Some of the large-scale biological or ecological monitoring programs currently operating or under development in Australia as of Dec 2023. UVC = underwater visual census, DOV = diver-operated video, ROV = remotely operated vehicle, AUV = autonomous underwater vehicle, BRUV = baited remote underwater video, MBES = multibeam echosounder.
 
-<td colspan="2" >
-   </td>
-   <td>Program
-</p>
-   </td>
-   <td>Region
-</p>
-   </td>
-   <td>Indicator
-</p>
-   </td>
-   <td>Sampling Platforms
-</p>
-   </td>
-   <td>Example Reference
-</p>
-   </td>
-   <td rowspan="9" >P E L A G I C
-</p>
-   </td>
-   <td rowspan="4" >
-   </td>
-   <td>Continuous Plankton Recorder (CPR)
-</p>
-   </td>
-   <td>Global
-</p>
-   </td>
-   <td>Plankton assemblages, colour index
-</p>
-   </td>
-   <td>CPR
-</p>
-   </td>
-   <td>Hosie et al. 2003
-</p>
-   </td>
-   <td>IMOS Animal Tracking Facility
-</p>
-   </td>
-   <td>National
-</p>
-   </td>
-   <td>Marine megafauna movement
-</p>
-   </td>
-   <td>Acoustic telemetry, satellite tracking
-</p>
-   </td>
-   <td>Taylor et al. 2017
-</p>
-   </td>
-   <td>IMOS Ships of Opportunity
-</p>
-   </td>
-   <td>National
-</p>
-   </td>
-   <td>Temperature, salinity, water column backscatter, biochemistry
-</p>
-   </td>
-   <td>Bathythermograph, echosounder, biogeochemical and meteorological sensors
-</p>
-   </td>
-   <td>Alory et al. 2007
-</p>
-   </td>
-   <td>IMOS National Mooring Network
-</p>
-   </td>
-   <td>National
-</p>
-   </td>
-   <td>Nutrients, microbes, phytoplankton, zooplankton, environmental factors
-</p>
-   </td>
-   <td>Moored sensors, water sampling
-</p>
-   </td>
-   <td>Sloyan and O’Kane 2015
-</p>
-   </td>
-   <td>
-   </td>
-   <td>Aquawatch
-</p>
-   </td>
-   <td>National
-</p>
-   </td>
-   <td>Various
-</p>
-   </td>
-   <td>Satellites, water sampling
-</p>
-   </td>
-   <td><a href="https://www.csiro.au/en/about/challenges-missions/aquawatch">https://www.csiro.au/en/about/challenges-missions/aquawatch</a>
-</p>
-   </td>
-   <td>
-   </td>
-   <td>Australian Microbiome Initiative
-</p>
-   </td>
-   <td>National
-</p>
-   </td>
-   <td>Microbial and zooplankton DNA
-</p>
-   </td>
-   <td>water sampling
-</p>
-   </td>
-   <td>van de Kamp 2019
-</p>
-   </td>
-   <td rowspan="9" >
-    B
-</p>
-<p>
-
-    E
-</p>
-<p>
-
-    N
-</p>
-<p>
-
-    T
-</p>
-<p>
-
-    H
-</p>
-<p>
-
-    I
-</p>
-<p>
-
-    C
-</p>
-<p>
-
-    &
-</p>
-<p>
-
-    D
-</p>
-<p>
-
-    E
-</p>
-<p>
-
-    M
-</p>
-<p>
-
-    E
-</p>
-<p>
-
-    R
-</p>
-<p>
-
-    S
-</p>
-<p>
-
-    A
-</p>
-<p>
-
-    L
-</p>
-   </td>
-   <td>Reef 2050 Integrated Monitoring and Reporting Program
-</p>
-   </td>
-   <td>GBR
-</p>
-   </td>
-   <td>Various
-</p>
-   </td>
-   <td>Various
-</p>
-   </td>
-   <td>GBRMPA 2015
-</p>
-   </td>
-   <td>Marine Integrated Monitoring Program
-</p>
-   </td>
-   <td>NSW
-</p>
-   </td>
-   <td>Various 
-</p>
-   </td>
-   <td>Aerial imagery, UVC, BRUVs, AUVs, towed imagery, grabs, DOVs, ROVs
-</p>
-   </td>
-   <td>Aither 2022
-</p>
-   </td>
-   <td>WAMSI estuary science program
-</p>
-   </td>
-   <td>WA
-</p>
-   </td>
-   <td>Various 
-</p>
-   </td>
-   <td>Various
-</p>
-   </td>
-   <td>Thomson et al. 2017
-</p>
-   </td>
-   <td>
-   </td>
-   <td>RedMap**
-</p>
-   </td>
-   <td>National
-</p>
-   </td>
-   <td>Fish, invertebrates
-</p>
-   </td>
-   <td>UVC, observations
-</p>
-   </td>
-   <td>Pecl et al. 2019
-</p>
-   </td>
-   <td rowspan="5" >
-   </td>
-   <td>Reef Life Survey**
-</p>
-   </td>
-   <td>Global
-</p>
-   </td>
-   <td>Demersal fish and benthic invertebrate assemblages
-</p>
-   </td>
-   <td>UVC
-</p>
-   </td>
-   <td>Stuart-Smith et al. 2017
-</p>
-   </td>
-   <td>Long-Term Monitoring Program (AIMS)
-</p>
-   </td>
-   <td>GBR and NW Australia
-</p>
-   </td>
-   <td>Fish and benthic invertebrate assemblage, coral health and cover
-</p>
-   </td>
-   <td>UVC, DOV, Towed imagery
-</p>
-   </td>
-   <td>De’ath et al. 2012
-</p>
-   </td>
-   <td>VIC Signs of Healthy Parks monitoring program
-</p>
-   </td>
-   <td>VIC
-</p>
-   </td>
-   <td>Various
-</p>
-   </td>
-   <td>UVC, drone/UAV, AUV, BRUVS, ROV, towed video, aerial photography
-</p>
-   </td>
-   <td>Parks Victoria’s Technical Series
-</p>
-   </td>
-   <td>WA marine monitoring program
-</p>
-   </td>
-   <td>WA
-</p>
-   </td>
-   <td>Various
-</p>
-   </td>
-   <td>Various
-</p>
-   </td>
-   <td>Dept Biodiv Conserv Attractions 2017
-</p>
-   </td>
-   <td>NESP field manual package*
-</p>
-   </td>
-   <td>National
-</p>
-   </td>
-   <td>Various
-</p>
-   </td>
-   <td>MBES, AUV, BRUV, Towed camera, Sled/trawls, Grab/corer, ROV, microplastics, drop camera, socioeconomic survey
-</p>
-   </td>
-   <td>Current study
-</p>
-   </td>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hacp{background-color:#DDEBF4;text-align:left;vertical-align:top}
+.tg .tg-aoc0{background-color:#629ACD;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-5jfb{background-color:#CFE2F3;text-align:left;vertical-align:top}
+.tg .tg-61in{background-color:#629ACD;text-align:left;vertical-align:top}
+.tg .tg-m2ps{background-color:#DDD9C4;text-align:center;vertical-align:top}
+.tg .tg-veas{background-color:#E5DFEC;text-align:left;vertical-align:top}
+.tg .tg-avgc{background-color:#e5dfec;text-align:left;vertical-align:top}
+.tg .tg-dot8{background-color:#CFE2F3;color:#15C;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 2151px">
+<colgroup>
+<col style="width: 25px">
+<col style="width: 29px">
+<col style="width: 361px">
+<col style="width: 153px">
+<col style="width: 451px">
+<col style="width: 737px">
+<col style="width: 395px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-61in" colspan="2"></th>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Program</span></th>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Region</span></th>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Indicator</span></th>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Sampling Platforms</span></th>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Example Reference</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-hacp" rowspan="9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">P E L A G I C</span></td>
+    <td class="tg-avgc" rowspan="4"></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Continuous Plankton Recorder (CPR)</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Global</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Plankton assemblages, colour index</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">CPR</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Hosie et al. 2003</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">IMOS Animal Tracking Facility</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">National</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Marine megafauna movement</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Acoustic telemetry, satellite tracking</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Taylor et al. 2017</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">IMOS Ships of Opportunity</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">National</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Temperature, salinity, water column backscatter, biochemistry</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Bathythermograph, echosounder, biogeochemical and meteorological sensors</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Alory et al. 2007</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">IMOS National Mooring Network</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">National</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Nutrients, microbes, phytoplankton, zooplankton, environmental factors</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Moored sensors, water sampling</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sloyan and O’Kane 2015</span></td>
+  </tr>
+  <tr>
+    <td class="tg-avgc"></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Aquawatch</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">National</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Various</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Satellites, water sampling</span></td>
+    <td class="tg-dot8"><a href="https://www.csiro.au/en/about/challenges-missions/aquawatch"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">https://www.csiro.au/en/about/challenges-missions/aquawatch</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-avgc"></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Australian Microbiome Initiative</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">National</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Microbial and zooplankton DNA</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">water sampling</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">van de Kamp 2019</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m2ps" rowspan="9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">B</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">E</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">N</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">T</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">H</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">I</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">C</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">&amp;</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">D</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">E</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">M</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">E</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">R</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">S</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">A</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">L</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Reef 2050 Integrated Monitoring and Reporting Program</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">GBR</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Various</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Various</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">GBRMPA 2015</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Marine Integrated Monitoring Program</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">NSW</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Various </span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Aerial imagery, UVC, BRUVs, AUVs, towed imagery, grabs, DOVs, ROVs</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Aither 2022</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">WAMSI estuary science program</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">WA</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Various </span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Various</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Thomson et al. 2017</span></td>
+  </tr>
+  <tr>
+    <td class="tg-veas"></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">RedMap**</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">National</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fish, invertebrates</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">UVC, observations</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Pecl et al. 2019</span></td>
+  </tr>
+  <tr>
+    <td class="tg-avgc" rowspan="5"></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Reef Life Survey**</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Global</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Demersal fish and benthic invertebrate assemblages</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">UVC</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Stuart-Smith et al. 2017</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Long-Term Monitoring Program (AIMS)</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">GBR and NW Australia</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fish and benthic invertebrate assemblage, coral health and cover</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">UVC, DOV, Towed imagery</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">De’ath et al. 2012</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">VIC Signs of Healthy Parks monitoring program</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">VIC</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Various</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">UVC, drone/UAV, AUV, BRUVS, ROV, towed video, aerial photography</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Parks Victoria’s Technical Series</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">WA marine monitoring program</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">WA</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Various</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Various</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Dept Biodiv Conserv Attractions 2017</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">NESP field manual package*</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">National</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Various</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">MBES, AUV, BRUV, Towed camera, Sled/trawls, Grab/corer, ROV, microplastics, drop camera, socioeconomic survey</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Current study</span></td>
+  </tr>
+</tbody>
+</table>
    
 * Primarily benthic and demersal platforms, but also includes an emergent pelagic method (Pelagic BRUVs)
 ** Citizen science program
