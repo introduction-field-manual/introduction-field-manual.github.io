@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /updates-and-revisions
+permalink: /version-2
 title: "Version 2"
 excerpt: "Updates and Revisions"
 image:
