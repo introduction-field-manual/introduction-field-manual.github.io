@@ -502,7 +502,7 @@ Importantly, many state marine monitoring programs use their own standard operat
     <td class="tg-5jfb"></td>
   </tr>
   <tr>
-    <td class="tg-5jfb" colspan="9">1<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> Refers to identifications able to be made with unknown or cryptic species (i.e. well-known, distinctive species can be identified via imagery)</span><br>2<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> Only possible when the ROV is equipped with sampling capability. This is outside the focus on the ROV manual</span><br>3<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> This only applies to small off-the-shelf ROVs, Working class ROVs require technical expertise and specific vessel specifications</span></td>
+    <td class="tg-5jfb" colspan="9"><sup>1</sup><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> Refers to identifications able to be made with unknown or cryptic species (i.e. well-known, distinctive species can be identified via imagery)</span><br><sup>2</sup><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> Only possible when the ROV is equipped with sampling capability. This is outside the focus on the ROV manual</span><br><sup>3</sup><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> This only applies to small off-the-shelf ROVs, Working class ROVs require technical expertise and specific vessel specifications</span></td>
   </tr>
 </tbody>
 </table>
