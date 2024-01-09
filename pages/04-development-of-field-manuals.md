@@ -26,7 +26,7 @@ The process used to develop each field manual included in this package is shown 
 8. Content of field manuals was revised based on feedback and new developments (e.g. data discoverability and accessibility). This was incorporated into Version 2 in 2020, with the exception of the ROV manual which was a new addition to the Version 2 field package and thus had not yet been through a process of stakeholder feedback after release. 
 9. Content of field manuals was updated with minor revisions to ensure currency as part of Version 3 in 2024. In addition, three new field manuals were developed using Steps 1-5 and released as part of Version 3.
 
-<img src="images/figures/image3.jpg" width="75%" align="middle">
+<img src="images/figures/image3.jpg" width="100%" align="middle">
 
 **Figure 3:** Flow chart showing the iterative process used in the initial development of this field manual package, including links to the international Ocean Best Practices System program (www.oceanbestpractices.org) (Przeslawski et al. 2023).
 
