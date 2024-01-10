@@ -18,12 +18,15 @@ image:
 |------------------------------------------------------------------------------------------------------------------------|
 |  **[Background](https://introduction-field-manual.github.io/background)**                                              |
 |  **[Scope](https://introduction-field-manual.github.io/scope)**                                                        |
+|       _[Survey planning](https://introduction-field-manual.github.io/scope#survey-planning)_                           |
+|       _[Sampling platforms](https://introduction-field-manual.github.io/scope#sampling-platforms)_                     |
 |  **[Format](https://introduction-field-manual.github.io/format)**                                                      |
 |  **[Development of Field Manuals](https://introduction-field-manual.github.io/development)**                           |
 |  **[Universal Protocols](https://introduction-field-manual.github.io/universal-protocols)**                            |
 |       _[Sampling design](https://introduction-field-manual.github.io/universal-protocols#sampling-design)_             |
 |       _[Permits](https://introduction-field-manual.github.io/universal-protocols#permits)_                             |
 |       _[Risk assessments](https://introduction-field-manual.github.io/universal-protocols#risk-assessments)_           |
+|       _[Indigenous partnership and engagement](https://introduction-field-manual.github.io/universal-protocols#indigenous-partnership-and-engagement)_           |
 |       _[Quality assurance and control](https://introduction-field-manual.github.io/universal-protocols#quality-assurance-and-control)_  |
 |       _[Data discoverability and accessibility](https://introduction-field-manual.github.io/universal-protocols#data-discoverability-and-accessibility)_  |
 |       _[Post-survey report](https://introduction-field-manual.github.io/universal-protocols#post-survey-report)_       |
