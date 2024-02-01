@@ -39,14 +39,12 @@ As such, we encourage researchers to partner and engage with local Indigenous co
 
 Researchers should also consider the CARE principles for Indigenous data governance (Carroll et al. 2020). These principles describe how data should be treated to ensure that Indigenous governance over the data and its use are respected. They include the following aspects: 
 
-
-
 * Collective benefits, in which data management should be designed and function in ways that enable Indigenous peoples to derive benefit from the data;
 * Authority to control, in which Indigenous peoples’ rights and interests in Indigenous data must be recognised and their authority to control such data be empowered; 
 * Responsibility, in which those working with Indigenous data have a responsibility to share how those data are used to support Indigenous peoples’ self-determination and collective benefit; and 
 * Ethics, in which Indigenous peoples’ rights and wellbeing should be the primary concern at all stages of the data life cycle and across the data ecosystem.
 
-In addition researchers should follow the _[Code of Ethics for Aboriginal and Torres Strait Islander Research](https://aiatsis.gov.au/sites/default/files/2022-02/aiatsis-code-ethics-jan22.pdf)_ (AIATSIS 2020) wherever possible, including obtaining relevant permissions. 
+Researchers should follow the _[Code of Ethics for Aboriginal and Torres Strait Islander Research](https://aiatsis.gov.au/sites/default/files/2022-02/aiatsis-code-ethics-jan22.pdf)_ (AIATSIS 2020) wherever possible when planning and implementing rsearch in collaboration with Indigenous people, including obtaining relevant permissions where required.
 
 
 ## Quality assurance and control
