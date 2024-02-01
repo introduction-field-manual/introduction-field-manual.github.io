@@ -37,7 +37,7 @@ Aboriginal and Torres Strait Islanders have a long and enduring connection to Se
 
 As such, we encourage researchers to partner and engage with local Indigenous communities whenever possible, including supporting Indigenous-led research which may require locally adapted versions of these field manuals. Partnerships with Indigenous communities are built on trust and personal relationships. This can take considerable time and often falls outside the typical western approach of stakeholder engagement. 
 
-Researchers should also consider the CARE principles for Indigenous data governance (Carroll et al. 2020). These principles describe how data should be treated to ensure that Indigenous governance over the data and its use are respected. They include the following aspects: 
+Researchers should consider the CARE principles for Indigenous data governance (Carroll et al. 2020). These principles describe how data should be treated to ensure that Indigenous governance over the data and its use are respected. They include the following aspects: 
 
 * Collective benefits, in which data management should be designed and function in ways that enable Indigenous peoples to derive benefit from the data;
 * Authority to control, in which Indigenous peoples’ rights and interests in Indigenous data must be recognised and their authority to control such data be empowered; 
