@@ -80,7 +80,7 @@ image:
   Hedge, P., Souter, D., Jordan, A., Trebilco, R., Ward, T., van Ruth, P., Cowlishaw, M., Lara-Lopez, A., Barrett, N., Thornborough, K., Nichol, S., Przeslawski, R., Parr, A., Kendrick, A., Holmes, T., Pattiaratchi, C., and Ferns, L. 2021. Establishing and supporting a national marine baselines and monitoring program. A report from the Baselines and Monitoring Working Group prepared for Australia’s National Marine Science.
 
 
-  Hedge, P., van Putten, E.I., Hunter, C. and Fischer, M. 2020. PErceptions, motivations, and practices for Indigenous engagement in marine science in Australia. Frontiers in Marine Science 7.
+  Hedge, P., van Putten, E.I., Hunter, C. and Fischer, M. 2020. Perceptions, motivations, and practices for Indigenous engagement in marine science in Australia. Frontiers in Marine Science 7.
 
 
   Hedge, P., F. Molloy, H. Sweatman, K. Hayes, J. Dambacher, J. Chandler, M. Gooch, A. Chinn, N. Bax, and T. Walshe. 2013. An Integrated Monitoring Framework for the Great Barrier Reef World Heritage Area. Department of the Environment, Canberra.
