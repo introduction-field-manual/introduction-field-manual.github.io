@@ -26,7 +26,7 @@ image:
 |       _[Sampling design](https://introduction-field-manual.github.io/universal-protocols#sampling-design)_             |
 |       _[Permits](https://introduction-field-manual.github.io/universal-protocols#permits)_                             |
 |       _[Risk assessments](https://introduction-field-manual.github.io/universal-protocols#risk-assessments)_           |
-|       _[Indigenous partnership and engagement](https://introduction-field-manual.github.io/universal-protocols#indigenous-partnership-and-engagement)_           |
+|       _[Indigenous leadership and collaboration](https://introduction-field-manual.github.io/universal-protocols#indigenous-leadership-and-collaboration)_           |
 |       _[Quality assurance and control](https://introduction-field-manual.github.io/universal-protocols#quality-assurance-and-control)_  |
 |       _[Data discoverability and accessibility](https://introduction-field-manual.github.io/universal-protocols#data-discoverability-and-accessibility)_  |
 |       _[Post-survey report](https://introduction-field-manual.github.io/universal-protocols#post-survey-report)_       |
