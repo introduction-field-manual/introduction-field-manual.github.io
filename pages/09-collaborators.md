@@ -25,13 +25,13 @@ All individuals that contributed to versions 1, 2 or 3 of this field manual pack
 .tg .tg-okx2{background-color:#CFE2F3;border-color:#ffffff;text-align:left;vertical-align:top}
 .tg .tg-pqzx{background-color:#629ACD;border-color:#ffffff;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1021px">
+<table class="tg" style="undefined;table-layout: fixed; width: 1041px">
 <colgroup>
-<col style="width: 204px">
-<col style="width: 204px">
-<col style="width: 205px">
-<col style="width: 204px">
-<col style="width: 204px">
+<col style="width: 208px">
+<col style="width: 208px">
+<col style="width: 209px">
+<col style="width: 208px">
+<col style="width: 208px">
 </colgroup>
 <thead>
   <tr>
@@ -77,6 +77,13 @@ All individuals that contributed to versions 1, 2 or 3 of this field manual pack
     <td class="tg-okx2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Geoscience Australia</span></td>
     <td class="tg-okx2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Lead author</span></td>
     <td class="tg-okx2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Towed Vid, AUV</span></td>
+  </tr>
+  <tr>
+    <td class="tg-okx2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Brooke</span></td>
+    <td class="tg-okx2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Gibbons</span></td>
+    <td class="tg-okx2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">UWA</span></td>
+    <td class="tg-okx2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Lead author</span></td>
+    <td class="tg-okx2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">BRUV, KAP, Drop cam, Website</span></td>
   </tr>
   <tr>
     <td class="tg-okx2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Bronwyn</span></td>
@@ -609,13 +616,6 @@ All individuals that contributed to versions 1, 2 or 3 of this field manual pack
     <td class="tg-okx2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">UNSW</span></td>
     <td class="tg-okx2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Contributor</span></td>
     <td class="tg-okx2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Microplastics</span></td>
-  </tr>
-  <tr>
-    <td class="tg-okx2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Brooke</span></td>
-    <td class="tg-okx2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Gibbons</span></td>
-    <td class="tg-okx2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">UWA</span></td>
-    <td class="tg-okx2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Author</span></td>
-    <td class="tg-okx2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">BRUV, KAP, Drop cam</span></td>
   </tr>
   <tr>
     <td class="tg-okx2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Anita</span></td>
